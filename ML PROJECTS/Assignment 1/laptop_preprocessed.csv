@@ -1,0 +1,1004 @@
+Brand,Storage,Refresh_Rate,Weight,Price,CPU_Brand,CPU_Series,CPU_Type,Warranty_Years,RAM_GB,OS,Brand_enc,CPU_Brand_enc,CPU_Series_enc,CPU_Type_enc,OS_enc
+MSI,2,60,3.6 kg,320000,intel,ultra 9,u,2,4,Windows 11,9,1,15,7,1
+MSI,1,60,2.4 kg,79999,intel,i9,hx,2,16,Windows 11,9,1,7,5,1
+Acer,512,60,2.29 kg,39999,intel,i5,h,1,8,Windows 11,2,1,5,3,1
+Dell,512,60,2.49 kg,57999,intel,i7,h,1,16,Windows 11,4,1,6,3,1
+Dell,1,60,2.49 kg,89999,intel,i9,h,1,16,dos,4,1,7,3,2
+Dell,1,60,2.49 kg,67999,intel,i7,h,1,32,dos,4,1,6,3,2
+Dell,1,60,2.49 kg,57999,intel,i7,h,1,16,dos,4,1,6,3,2
+HP,512,144,2.29 kg,40999,intel,i7,h,1,16,dos,5,1,6,3,2
+HP,512,144,2.31 kg,51499,intel,i7,hx,1,16,dos,5,1,6,5,2
+HP,512,144,2.29 kg,47777,intel,i7,h,1,16,dos,5,1,6,3,2
+Lenovo,512,60,1.77 kg,31999,intel,i5,hx,2,16,Windows 11,8,1,5,5,1
+HP,1,144,2.31 kg,39666,intel,i5,hx,1,16,dos,5,1,5,5,2
+HP,1,144,2.31 kg,39666,intel,i5,hx,1,16,dos,5,1,5,5,2
+HP,512,144,2.29 kg,33999,intel,i5,h,1,8,dos,5,1,5,3,2
+HP,512,144,2.29 kg,33999,intel,i5,h,1,8,dos,5,1,5,3,2
+HP,1,60,2.42 kg,106999,intel,ultra 9,u,1,16,Windows 11,5,1,15,7,1
+HP,1,60,2.44kg,104999,amd,ai 9,hx,1,32,Windows 11,5,0,1,5,1
+Lenovo,1,60,1.9 kg,107999,intel,i9,hx,1,16,Windows 11,8,1,7,5,1
+ASUS,1,144,1.85 Kg,105200,amd,ai 7,h,1,32,Windows 11,1,0,0,3,1
+Lenovo,2,60,2.57 kg,205000,intel,ultra 9,u,1,32,Windows 11,8,1,15,7,1
+HP,1,144,2.33 kg,53999,intel,i7,hx,1,16,dos,5,1,6,5,2
+ASUS,1,144,2.50 Kg,109300,amd,ryzen 9,hx,1,16,Windows 11,1,0,11,5,1
+ASUS,1,144,2.50 Kg,102000,amd,ryzen 9,hx,1,16,Windows 11,1,0,11,5,1
+ASUS,512,144,2.20 Kg,56199,amd,ryzen 7,h,1,16,Windows 11,1,0,10,3,1
+ASUS,1,144,1.46 Kg,66999,amd,ai 7,h,1,16,Windows 11,1,0,0,3,1
+ASUS,512,144,1.46 Kg,48888,amd,ryzen 7,hs,1,16,Windows 11,1,0,10,4,1
+MSI,1,60,3.1 kg,94999,intel,ultra 9,u,2,32,Windows 11,9,1,15,7,1
+MSI,1,60,3 kg,228337,intel,ultra 9,u,2,32,Windows 11,9,1,15,7,1
+MSI,2,60,3.6 kg,249999,intel,ultra 9,u,2,4,Windows 11,9,1,15,7,1
+Acer,512,60,1.8 kg,26699,intel,i5,u,1,8,dos,2,1,5,7,2
+HP,512,144,2.29 kg,34999,intel,i5,h,1,8,dos,5,1,5,3,2
+MSI,512,60,1.86 kg,41999,intel,i7,h,2,16,dos,9,1,6,3,2
+MSI,512,60,2.4 kg,61999,intel,i7,hx,2,8,dos,9,1,6,5,2
+MSI,1,60,2.4 kg,69999,intel,i9,hx,2,16,Windows 11,9,1,7,5,1
+Lenovo,512,60,2.38 kg,39999,amd,ryzen 7,hs,1,4,dos,8,0,10,4,2
+HP,1,144,2.31 kg,42999,intel,i7,h,1,16,dos,5,1,6,3,2
+Lenovo,512,60,2.38 kg,47777,amd,ryzen 7,hs,1,4,dos,8,0,10,4,2
+Dell,512,60,2.81 kg,37777,intel,i5,hx,3,16,dos,4,1,5,5,2
+Lenovo,512,60,2.4 kg,66666,intel,i7,hx,2,16,Windows 11,8,1,6,5,1
+HP,512,144,2.29 kg,30999,intel,i5,h,1,8,dos,5,1,5,3,2
+HP,512,144,2.29 kg,31899,intel,i5,h,1,8,dos,5,1,5,3,2
+Lenovo,1,60,1.9 kg,113000,intel,i9,hx,1,32,dos,8,1,7,5,2
+ASUS,1,144,2.50 Kg,92999,amd,ryzen 9,hx,1,16,Windows 11,1,0,11,5,1
+ASUS,512,144,2.20 Kg,36666,intel,i5,h,1,8,Windows 11,1,1,5,3,1
+ASUS,1,144,3.30 Kg,164888,intel,ultra 9,u,1,16,Windows 11,1,1,15,7,1
+ASUS,1,144,2.65 Kg,135000,intel,ultra 9,u,1,32,Windows 11,1,1,15,7,1
+ASUS,1,144,2.50 Kg,85399,intel,i9,hx,1,16,Windows 11,1,1,7,5,1
+MSI,1,60,2.3 kg,69999,intel,i9,hx,1,16,dos,9,1,7,5,2
+Lenovo,512,60,2.38 kg,30777,intel,i5,hx,2,4,Windows 11,8,1,5,5,1
+ASUS,1,144,1.95 Kg,108000,intel,ultra 9,u,1,16,Windows 11,1,1,15,7,1
+MSI,1,60,1.99 kg,104999,intel,ultra 9,u,1,32,Windows 11,9,1,15,7,1
+MSI,1,60,2.7 kg,151999,intel,ultra 9,u,2,16,Windows 11,9,1,15,7,1
+HP,1,60,2.31 Kg,82399,intel,i7,hx,1,16,Windows 11,5,1,6,5,1
+MSI,1,60,2.7 kg,179888,intel,i9,hx,1,32,Windows 11,9,1,7,5,1
+MSI,1,60,2.7 kg,129999,intel,ultra 9,u,2,32,Windows 11,9,1,15,7,1
+MSI,1,60,2.7 kg,169999,intel,ultra 9,u,2,32,Windows 11,9,1,15,7,1
+MSI,2,60,3.6 kg,299999,intel,ultra 9,u,2,4,Windows 11,9,1,15,7,1
+Lenovo,512,60,2.38 kg,36666,intel,i5,hx,2,4,Windows 11,8,1,5,5,1
+ASUS,2,144,2.80 Kg,193999,intel,ultra 9,u,1,4,Windows 11,1,1,15,7,1
+ASUS,1,144,2.80 Kg,155000,intel,ultra 9,u,1,32,Windows 11,1,1,15,7,1
+ASUS,2,144,1.95 Kg,147777,intel,ultra 9,u,1,32,Windows 11,1,1,15,7,1
+HP,1,60,2.76 kg,200000,intel,ultra 9,u,1,32,Windows 11,5,1,15,7,1
+HP,512,144,2.29 kg,41199,intel,i5,h,1,16,dos,5,1,5,3,2
+Lenovo,1,60,2.38 kg,58699,intel,i7,hx,2,16,dos,8,1,6,5,2
+ASUS,512,144,2.20 Kg,39999,intel,i5,h,1,8,Windows 11,1,1,5,3,1
+ASUS,512,60,1.80 kg,29999,intel,i5,h,1,8,Windows 11,1,1,5,3,1
+Lenovo,1,60,2.38 kg,59699,intel,i7,hx,2,16,Windows 11,8,1,6,5,1
+MSI,512,60,1.86 kg,45599,amd,ryzen 7,hs,2,16,dos,9,0,10,4,2
+MSI,512,60,2.25 kg,52249,amd,ryzen 9,hs,2,16,dos,9,0,11,4,2
+MSI,512,60,2.25 kg,56899,amd,ryzen 9,hs,2,16,dos,9,0,11,4,2
+MSI,512,60,1.86 kg,34849,intel,i7,h,2,16,dos,9,1,6,3,2
+HP,1,144,2.31 kg,39499,intel,i5,hx,1,16,dos,5,1,5,5,2
+HP,512,144,2.29 kg,39099,intel,i5,h,1,16,dos,5,1,5,3,2
+ASUS,1,144,1.46 Kg,64777,amd,ai 9,hx,1,16,Windows 11,1,0,1,5,1
+HP,512,144,2.29 kg,38888,intel,i5,h,1,16,dos,5,1,5,3,2
+Lenovo,512,60,1.77 kg,29749,intel,i5,hx,1,16,dos,8,1,5,5,2
+HP,1,60,2.39 kg,91499,intel,i7,hx,1,16,Windows 11,5,1,6,5,1
+HP,512,144,2.29 kg,38888,intel,i5,h,1,16,Windows 11,5,1,5,3,1
+HP,512,144,2.29 kg,40999,intel,i7,h,1,8,dos,5,1,6,3,2
+HP,1,144,2.33 kg,59999,intel,i7,hx,1,16,dos,5,1,6,5,2
+Lenovo,512,60,2.38 kg,46499,intel,i7,hx,1,4,dos,8,1,6,5,2
+HP,512,144,2.33 kg,61799,intel,i7,hx,1,16,dos,5,1,6,5,2
+Dell,1,60,2.81 kg,59999,intel,i7,hx,1,16,Windows 11,4,1,6,5,1
+Lenovo,512,60,2.38 kg,55999,intel,i7,hx,1,16,dos,8,1,6,5,2
+MSI,512,60,1.85 Kg,32499,intel,i5,h,1,8,Windows 11,9,1,5,3,1
+HP,1,144,2.33 Kg,88888,intel,i7,h,1,16,Windows 11,5,1,6,3,1
+HP,512,144,2.29 kg,40999,amd,ryzen 5,hs,1,16,Windows 11,5,0,9,4,1
+Lenovo,512,60,2.38 kg,43999,intel,i7,hx,2,16,dos,8,1,6,5,2
+HP,512,144,2.29 kg,40099,intel,i5,h,1,16,dos,5,1,5,3,2
+HP,512,144,2.29 kg,38666,intel,i5,h,1,16,dos,5,1,5,3,2
+HP,1,60,2.34 kg,71000,intel,i7,h,1,16,Windows 11,5,1,6,3,1
+HP,512,144,2.29 kg,40999,intel,i7,h,1,8,dos,5,1,6,3,2
+HP,512,144,2.29 kg,37777,amd,ryzen 5,hs,1,8,Windows 11,5,0,9,4,1
+MSI,512,60,1.98 kg,47499,intel,i7,h,2,16,dos,9,1,6,3,2
+HP,1,60,2.35 kg,57777,intel,i7,h,1,16,Windows 11,5,1,6,3,1
+Dell,512,60,2.81 kg,56666,intel,i7,hx,1,16,dos,4,1,6,5,2
+Lenovo,1,60,2.4 kg,65199,intel,i7,h,1,16,dos,8,1,6,3,2
+ASUS,512,144,2.00 Kg,99999,intel,i7,h,1,16,Windows 11,1,1,6,3,1
+HP,1,144,2.33 kg,48888,intel,i7,h,1,16,dos,5,1,6,3,2
+HP,1,144,2.33 kg,48888,intel,i7,h,1,16,dos,5,1,6,3,2
+Lenovo,512,144,2.25 kg,43999,amd,ryzen 7,h,1,16,dos,8,0,10,3,2
+HP,512,144,2.29 kg,30999,amd,ryzen 7,h,1,16,Windows 11,5,0,10,3,1
+HP,1,144,2.31 kg,59999,intel,i7,hx,1,16,dos,5,1,6,5,2
+HP,1,144,2.31 kg,51999,intel,i7,hx,1,16,dos,5,1,6,5,2
+Lenovo,512,60,2.4 kg,57777,intel,i7,hx,2,4,Windows 11,8,1,6,5,1
+Lenovo,512,60,2.4 kg,60999,intel,i7,hx,2,4,Windows 11,8,1,6,5,1
+Lenovo,512,60,1.77 kg,29999,intel,i5,hx,1,16,dos,8,1,5,5,2
+Dell,1,60,1.08 kg,93333,intel,ultra 7,u,3,32,Windows 11,4,1,14,7,1
+Dell,1,60,2.57 kg,112000,intel,ultra 9,u,3,32,Windows 11,4,1,15,7,1
+Dell,1,60,2.57 kg,91999,intel,ultra 9,u,3,32,Windows 11,4,1,15,7,1
+Lenovo,1,60,1.9 kg,93333,intel,ultra 9,u,2,16,dos,8,1,15,7,2
+Lenovo,1,60,1.9 kg,79999,intel,i7,hx,2,16,dos,8,1,6,5,2
+ASUS,1,144,2.50 Kg,114000,amd,ryzen 9,hx,1,32,Windows 11,1,0,11,5,1
+ASUS,512,144,1.46 Kg,57399,amd,ryzen 7,hs,1,16,Windows 11,1,0,10,4,1
+Dell,512,60,2.49 kg,60699,intel,i7,h,1,16,Windows 11,4,1,6,3,1
+Dell,512,60,2.49 kg,67999,intel,i7,h,1,16,Windows 11,4,1,6,3,1
+Lenovo,512,60,2.38 kg,39499,intel,i5,hx,1,4,dos,8,1,5,5,2
+MSI,512,60,1.86 kg,27549,intel,i5,h,2,8,dos,9,1,5,3,2
+MSI,2,60,3.6 kg,229999,intel,ultra 9,u,2,4,Windows 11,9,1,15,7,1
+HP,1,144,2.29 kg,44444,intel,i7,h,1,16,dos,5,1,6,3,2
+HP,512,144,3.35kg,33699,intel,i5,h,1,8,Windows 11,5,1,5,3,1
+ASUS,512,60,1.95 kg,39999,intel,i7,h,1,16,Windows 11,1,1,6,3,1
+Lenovo,512,60,2.38 kg,38888,intel,i5,hx,1,4,dos,8,1,5,5,2
+Lenovo,512,60,2.38 kg,30999,intel,i5,hx,1,4,Windows 11,8,1,5,5,1
+HP,512,144,2.29 kg,43199,intel,i7,h,1,8,dos,5,1,6,3,2
+Lenovo,512,60,2.4 kg,52999,intel,i7,hx,2,4,dos,8,1,6,5,2
+Lenovo,1,60,2.42 kg,160000,intel,ultra 9,u,1,32,Windows 11,8,1,15,7,1
+Lenovo,1,60,2.5 kg,103499,intel,i9,hx,1,32,Windows 11,8,1,7,5,1
+MSI,1,60,2.5 kg,76850,intel,ultra 7,u,2,16,Windows 11,9,1,14,7,1
+MSI,1,60,2.5 kg,85450,intel,ultra 7,u,2,16,Windows 11,9,1,14,7,1
+MSI,1,60,2.7 kg,158409,intel,ultra 7,u,2,16,Windows 11,9,1,14,7,1
+ASUS,1,144,2.50 Kg,128888,amd,ryzen 9,hx,1,32,Windows 11,1,0,11,5,1
+Lenovo,512,60,1.77 kg,40999,intel,i7,hx,1,16,Windows 11,8,1,6,5,1
+ASUS,512,144,2.20 Kg,49999,intel,i7,h,1,16,Windows 11,1,1,6,3,1
+ASUS,512,144,2.20 Kg,42199,intel,i5,h,1,16,Windows 11,1,1,5,3,1
+ASUS,2,60,1.85 kg,152000,amd,ai 9,hx,1,4,Windows 11,1,0,1,5,1
+Lenovo,512,60,1.77 kg,34999,intel,i5,hx,1,16,dos,8,1,5,5,2
+ASUS,512,60,1.80 kg,36666,intel,i5,h,1,16,Windows 11,1,1,5,3,1
+HP,1,144,2.29 kg,29999,intel,i5,h,1,8,Windows 11,5,1,5,3,1
+Lenovo,512,60,2.4 kg,58499,intel,i7,hx,2,4,dos,8,1,6,5,2
+Lenovo,512,60,2.4 kg,58888,intel,i7,hx,2,4,Windows 11,8,1,6,5,1
+HP,512,144,2.29 kg,46444,intel,i7,h,1,16,dos,5,1,6,3,2
+HP,1,144,2.33 kg,48888,intel,i7,h,1,16,dos,5,1,6,3,2
+MSI,512,60,2.3 kg,62999,intel,i7,hx,2,16,Windows 11,9,1,6,5,1
+HP,512,144,2.29 kg,44444,intel,i7,h,1,16,Windows 11,5,1,6,3,1
+HP,1,144,2.31 kg,38999,intel,i5,hx,1,16,dos,5,1,5,5,2
+Lenovo,512,60,2.38 kg,31999,amd,ryzen 5,hs,1,4,Windows 11,8,0,9,4,1
+Lenovo,512,60,2.38 kg,42999,intel,i7,hx,1,4,dos,8,1,6,5,2
+ASUS,1,144,2.65 Kg,134999,intel,ultra 9,u,1,32,Windows 11,1,1,15,7,1
+ASUS,1,144,1.57 Kg,129500,amd,ai 9,hx,1,32,Windows 11,1,0,1,5,1
+ASUS,2,144,3.30 Kg,204999,intel,ultra 9,u,1,4,Windows 11,1,1,15,7,1
+ASUS,1,144,1.57 Kg,129500,amd,ai 9,hx,1,32,Windows 11,1,0,1,5,1
+ASUS,2,144,1.95 Kg,189999,intel,ultra 9,u,1,4,Windows 11,1,1,15,7,1
+Lenovo,512,60,2.38 kg,35555,intel,i5,hx,2,4,dos,8,1,5,5,2
+MSI,1,60,2.7 kg,122222,intel,i9,hx,1,16,Windows 11,9,1,7,5,1
+HP,512,144,2.31 kg,52499,intel,i7,hx,1,16,dos,5,1,6,5,2
+Dell,1,60,2.81 kg,83999,intel,i9,hx,1,32,Windows 11,4,1,7,5,1
+HP,1,144,2.33 kg,47999,intel,i7,h,1,16,dos,5,1,6,3,2
+Dell,1,60,2.81 kg,63599,intel,i7,hx,3,16,dos,4,1,6,5,2
+HP,512,144,2.29 kg,41199,intel,i5,h,1,16,dos,5,1,5,3,2
+HP,512,144,2.29 kg,44444,intel,i7,h,1,16,Windows 11,5,1,6,3,1
+Lenovo,1,60,2.4 kg,57777,intel,i7,h,1,16,Windows 11,8,1,6,3,1
+Lenovo,512,60,2.55 kg,72999,intel,i9,hx,1,16,dos,8,1,7,5,2
+Lenovo,512,60,1.94 kg,66666,intel,ultra 7,u,1,16,Windows 11,8,1,14,7,1
+Lenovo,1,60,2.4 kg,45499,amd,ryzen 7,h,1,16,dos,8,0,10,3,2
+ASUS,512,144,2.20 Kg,41999,intel,i5,h,1,16,Windows 11,1,1,5,3,1
+ASUS,512,144,2.29 kg,58999,intel,i7,h,1,16,Windows 11,1,1,6,3,1
+Lenovo,1,60,2.36 kg,82499,intel,i9,hx,1,32,Windows 11,8,1,7,5,1
+MSI,512,60,1.86 kg,36899,amd,ryzen 7,hs,2,16,dos,9,0,10,4,2
+MSI,512,60,1.86 kg,38339,amd,ryzen 7,hs,2,16,dos,9,0,10,4,2
+MSI,512,60,1.86 kg,28449,intel,i5,h,2,8,dos,9,1,5,3,2
+MSI,512,60,1.86 kg,42999,intel,i7,h,2,16,dos,9,1,6,3,2
+HP,1,60,2.33 kg,51999,intel,i7,h,1,16,dos,5,1,6,3,2
+HP,1,60,2.31 Kg,74999,intel,i7,hx,1,32,Windows 11,5,1,6,5,1
+ASUS,1,144,1.85 Kg,134999,amd,ai 9,hx,1,32,Windows 11,1,0,1,5,1
+ASUS,2,60,1.85 kg,150000,amd,ai 9,hx,1,4,Windows 11,1,0,1,5,1
+ASUS,1,144,1.46 Kg,69999,amd,ai 9,hx,1,16,Windows 11,1,0,1,5,1
+Lenovo,1,60,2.36 kg,67999,intel,i7,hx,1,16,Windows 11,8,1,6,5,1
+Lenovo,512,60,2.38 kg,51999,intel,i7,hx,1,4,dos,8,1,6,5,2
+Lenovo,1,60,2.5 kg,89999,intel,i7,hx,1,16,Windows 11,8,1,6,5,1
+Lenovo,512,60,1.77 kg,31999,intel,i5,hx,2,16,dos,8,1,5,5,2
+Lenovo,1,60,1.94 kg,70499,intel,ultra 9,u,1,32,Windows 11,8,1,15,7,1
+Lenovo,1,60,2.36 kg,64999,intel,i7,hx,1,8,Windows 11,8,1,6,5,1
+HP,512,60,2.39 kg,86666,intel,i7,hx,1,16,Windows 11,5,1,6,5,1
+Lenovo,1,60,2.5 kg,109999,intel,i9,hx,1,32,dos,8,1,7,5,2
+HP,1,144,2.29 kg,50999,intel,i7,h,1,16,Windows 11,5,1,6,3,1
+HP,512,144,2.29 kg,35499,intel,i5,h,1,16,dos,5,1,5,3,2
+Lenovo,1,60,2.5 kg,69999,intel,i7,hx,1,16,dos,8,1,6,5,2
+HP,512,144,2.29 kg,46999,intel,i7,h,1,16,dos,5,1,6,3,2
+Lenovo,512,60,2.38 kg,60650,amd,ryzen 7,hs,1,16,Windows 11,8,0,10,4,1
+Lenovo,512,60,2.38 kg,53499,intel,i7,hx,1,16,Windows 11,8,1,6,5,1
+MSI,1,60,2.6 kg,88888,intel,i7,hx,2,16,Windows 11,9,1,6,5,1
+MSI,1,60,2.6 kg,68422,intel,i9,h,2,32,dos,9,1,7,3,2
+MSI,512,60,1.98 kg,36499,intel,i5,h,1,16,dos,9,1,5,3,2
+MSI,512,60,2.3 kg,57877,intel,i7,hx,2,16,Windows 11,9,1,6,5,1
+MSI,1,60,2.7 kg,129999,intel,i9,hx,2,32,Windows 11,9,1,7,5,1
+MSI,512,60,1.86 kg,33399,intel,i7,h,2,16,dos,9,1,6,3,2
+MSI,1,60,2.8 kg,102000,intel,ultra 9,u,2,16,Windows 11,9,1,15,7,1
+MSI,2,60,3.6 kg,176499,intel,i9,hx,2,32,Windows 11,9,1,7,5,1
+HP,512,144,2.29 kg,43999,intel,i7,h,1,16,dos,5,1,6,3,2
+HP,512,144,2.29 kg,29999,amd,ryzen 5,hs,1,16,Windows 11,5,0,9,4,1
+Dell,2,60,2.06 kg,52499,intel,i7,h,1,16,Windows 11,4,1,6,3,1
+ASUS,512,60,1.80 kg,49999,intel,i7,h,1,4,Windows 11,1,1,6,3,1
+ASUS,512,144,2.20 Kg,47299,amd,ryzen 7,hs,1,16,Windows 11,1,0,10,4,1
+ASUS,512,144,2.20 Kg,47777,intel,i7,h,1,16,Windows 11,1,1,6,3,1
+ASUS,1,144,2.20 Kg,52999,intel,i7,h,1,16,Windows 11,1,1,6,3,1
+HP,1,60,4.28 kg,72999,intel,i9,hx,1,16,Windows 11,5,1,7,5,1
+ASUS,512,144,2.20 Kg,52999,intel,i7,h,1,16,dos,1,1,6,3,2
+MSI,1,60,2.24 kg,68999,intel,i7,h,1,16,Windows 11,9,1,6,3,1
+MSI,1,60,2.24 kg,58888,intel,i7,h,1,16,Windows 11,9,1,6,3,1
+Lenovo,512,60,2.36 kg,66899,intel,i7,hx,1,16,Windows 11,8,1,6,5,1
+MSI,1,60,2.74 Kg,105000,intel,i9,hx,1,32,Windows 11,9,1,7,5,1
+Dell,1,60,2.61 kg,125000,intel,ultra 9,u,1,32,Windows 11,4,1,15,7,1
+ASUS,1,144,2.20 Kg,64888,intel,i7,h,1,16,Windows 11,1,1,6,3,1
+Lenovo,1,60,2.55 kg,91999,intel,i7,hx,1,16,Windows 11,8,1,6,5,1
+HP,512,144,2.29 kg,45999,intel,i7,h,1,16,dos,5,1,6,3,2
+HP,512,144,2.29 kg,35000,intel,i5,h,1,8,dos,5,1,5,3,2
+Lenovo,512,144,2.25 kg,31399,amd,ryzen 5,h,1,8,dos,8,0,9,3,2
+Lenovo,512,60,2.38 kg,52499,intel,i7,hx,1,16,dos,8,1,6,5,2
+Lenovo,512,60,2.38 kg,38888,intel,i5,hx,1,16,dos,8,1,5,5,2
+Lenovo,1,60,2.24 kg,105000,intel,i9,hx,1,16,Windows 11,8,1,7,5,1
+Dell,1,60,2.61 kg,99999,intel,ultra 7,u,1,16,Windows 11,4,1,14,7,1
+Lenovo,1,60,2.36 kg,95999,intel,i9,hx,1,16,Windows 11,8,1,7,5,1
+MSI,512,60,1.86 kg,39999,intel,i5,h,2,8,Windows 11,9,1,5,3,1
+Lenovo,1,60,2.36 kg,69888,intel,i7,hx,1,16,Windows 11,8,1,6,5,1
+Lenovo,1,60,2.4 kg,63333,amd,ryzen 7,hs,1,16,Windows 11,8,0,10,4,1
+Dell,512,60,2.81 kg,52999,intel,i7,hx,1,16,dos,4,1,6,5,2
+Lenovo,1,60,2.62 kg,235000,intel,i9,hx,1,32,dos,8,1,7,5,2
+HP,1,144,2.33 kg,67999,intel,i7,hx,1,16,dos,5,1,6,5,2
+HP,1,144,2.33 kg,53999,intel,i7,h,1,16,dos,5,1,6,3,2
+ASUS,1,144,2.50 Kg,62999,intel,i7,hx,1,16,Windows 11,1,1,6,5,1
+ASUS,512,144,2.30 Kg,32666,amd,ryzen 7,hs,1,8,Windows 11,1,0,10,4,1
+ASUS,512,144,2.30 Kg,32499,amd,ryzen 7,hs,1,8,Windows 11,1,0,10,4,1
+Lenovo,1,60,2.36 kg,78888,intel,i7,hx,1,16,dos,8,1,6,5,2
+HP,512,144,2.29 kg,30999,intel,i5,h,1,8,Windows 11,5,1,5,3,1
+Lenovo,1,60,2.38 kg,48888,intel,i7,hx,1,16,Windows 11,8,1,6,5,1
+Lenovo,512,60,2.38 kg,36999,intel,i5,hx,1,4,dos,8,1,5,5,2
+Lenovo,1,60,2.55 kg,72999,intel,i7,hx,1,16,Windows 11,8,1,6,5,1
+Lenovo,1,60,2.38 kg,45499,intel,i7,hx,1,16,Windows 11,8,1,6,5,1
+HP,512,144,2.29 kg,34477,intel,i5,h,1,8,dos,5,1,5,3,2
+HP,512,144,2.29 kg,36249,intel,i5,h,1,8,Windows 11,5,1,5,3,1
+Lenovo,512,60,2.38 kg,34333,intel,i5,hx,2,8,dos,8,1,5,5,2
+MSI,512,60,2.25 kg,71930,intel,i7,h,2,16,Windows 11,9,1,6,3,1
+MSI,512,60,1.86 kg,38999,intel,i7,h,2,16,dos,9,1,6,3,2
+MSI,512,60,1.86 kg,28899,intel,i5,h,2,8,dos,9,1,5,3,2
+MSI,512,60,1.98 kg,49999,intel,i7,h,2,16,dos,9,1,6,3,2
+Lenovo,512,60,2.38 kg,31999,intel,i5,hx,2,16,dos,8,1,5,5,2
+Lenovo,512,144,2.25 kg,26999,amd,ryzen 5,h,1,8,Windows 11,8,0,9,3,1
+HP,512,144,2.29 kg,52599,intel,i7,h,1,16,Windows 11,5,1,6,3,1
+HP,512,144,2.29 kg,54499,intel,i7,h,1,16,dos,5,1,6,3,2
+Lenovo,512,60,2.38 kg,38888,intel,i5,hx,1,16,dos,8,1,5,5,2
+Lenovo,512,60,2.38 kg,30999,intel,i5,hx,1,4,dos,8,1,5,5,2
+ASUS,512,144,2.30 Kg,29199,amd,ryzen 5,hs,1,8,Windows 11,1,0,9,4,1
+ASUS,512,144,2.30 Kg,36000,amd,ryzen 5,hs,1,8,Windows 11,1,0,9,4,1
+ASUS,512,144,2.20 Kg,39888,amd,ryzen 5,hs,1,8,Windows 11,1,0,9,4,1
+Lenovo,512,60,2.38 kg,31499,intel,i5,hx,2,8,dos,8,1,5,5,2
+HP,1,60,2.18 kg,119999,intel,i7,hx,1,32,Windows 11,5,1,6,5,1
+HP,512,60,2.78 Kg,89999,intel,i7,hx,1,16,Windows 11,5,1,6,5,1
+Lenovo,512,60,2.38 kg,42999,intel,i7,hx,1,16,dos,8,1,6,5,2
+Lenovo,1,60,2.4 kg,55999,amd,ryzen 5,h,1,16,dos,8,0,9,3,2
+Lenovo,512,60,2.4 kg,39499,amd,ryzen 5,h,1,8,Windows 11,8,0,9,3,1
+Lenovo,512,60,2.4 kg,48000,amd,ryzen 7,hs,1,16,Windows 11,8,0,10,4,1
+Dell,1,60,2.81 kg,63999,intel,i7,hx,1,16,Windows 11,4,1,6,5,1
+Lenovo,512,144,2.25 kg,45999,amd,ryzen 7,h,1,8,dos,8,0,10,3,2
+HP,512,144,2.29 kg,38799,intel,i5,h,1,8,Windows 11,5,1,5,3,1
+HP,1,144,2.29KG,30499,intel,i5,h,1,8,Windows 11,5,1,5,3,1
+Lenovo,512,60,2.4 kg,37149,intel,i5,h,1,16,dos,8,1,5,3,2
+Lenovo,1,60,2.4 kg,39800,intel,i5,h,1,16,Windows 11,8,1,5,3,1
+ASUS,1,144,2.50 Kg,94499,intel,i9,hx,2,16,Windows 11,1,1,7,5,1
+ASUS,2,144,3.10 Kg,178199,intel,i9,hx,2,32,Windows 11,1,1,7,5,1
+ASUS,1,144,3.10 Kg,139000,intel,i9,hx,2,32,Windows 11,1,1,7,5,1
+MSI,512,60,2.6 kg,77930,intel,i9,h,2,16,Windows 11,9,1,7,3,1
+MSI,1,60,3 kg,131845,intel,i9,hx,2,32,Windows 11,9,1,7,5,1
+MSI,2,60,3.1 kg,180449,intel,i9,hx,2,32,Windows 11,9,1,7,5,1
+MSI,2,60,3.6 kg,229999,intel,i9,hx,2,4,Windows 11,9,1,7,5,1
+MSI,512,60,1.98 kg,60999,intel,ultra 7,u,2,16,Windows 11,9,1,14,7,1
+ASUS,512,60,2.20 Kg,39666,amd,ryzen 5,hs,1,8,Windows 11,1,0,9,4,1
+ASUS,2,60,1.95 Kg,169888,intel,ultra 9,u,2,32,Windows 11,1,1,15,7,1
+ASUS,512,60,1.65 kg,48999,amd,ryzen 7,h,2,16,Windows 11,1,0,10,3,1
+MSI,512,60,1.86 kg,28888,intel,i5,h,1,8,dos,9,1,5,3,2
+HP,512,144,2.29 kg,31999,amd,ryzen 7,h,1,16,Windows 11,5,0,10,3,1
+HP,1,144,2.29 kg,49199,amd,ryzen 7,h,1,16,Windows 11,5,0,10,3,1
+HP,1,144,2.29 kg,45999,intel,i5,h,1,8,Windows 11,5,1,5,3,1
+HP,512,144,2.29 kg,31666,intel,i5,h,1,8,dos,5,1,5,3,2
+HP,1,144,2.29 kg,36999,intel,i5,h,1,8,Windows 11,5,1,5,3,1
+HP,1,144,2.31 kg,70499,intel,i7,hx,1,32,Windows 11,5,1,6,5,1
+HP,1,144,2.33 kg,59499,intel,i7,h,1,16,Windows 11,5,1,6,3,1
+HP,1,144,2.33 kg,74999,intel,i7,h,1,16,dos,5,1,6,3,2
+HP,512,144,2.29 kg,27999,amd,ryzen 5,h,1,8,dos,5,0,9,3,2
+Lenovo,512,60,2.4 kg,66000,intel,i7,h,1,16,dos,8,1,6,3,2
+Dell,1,60,2.672 Kg,54499,intel,i7,h,1,16,Windows 11,4,1,6,3,1
+Lenovo,1,60,2 kg,79199,intel,i7,h,1,16,dos,8,1,6,3,2
+Lenovo,512,144,2.315 kg,61200,intel,i7,h,1,16,dos,8,1,6,3,2
+Lenovo,1,60,2.38 kg,73700,intel,i7,hx,1,16,dos,8,1,6,5,2
+Lenovo,512,60,2.4 kg,31799,intel,i5,h,1,8,dos,8,1,5,3,2
+Lenovo,512,60,2.4 kg,31777,intel,i5,h,1,8,dos,8,1,5,3,2
+Dell,1,60,2.81 kg,58000,intel,i7,hx,1,8,Windows 11,4,1,6,5,1
+MSI,512,60,1.86 kg,45000,intel,i5,h,1,16,Windows 11,9,1,5,3,1
+ASUS,512,144,2.30 Kg,42800,intel,i7,h,2,16,Windows 11,1,1,6,3,1
+HP,1,144,2.29 kg,39049,amd,ryzen 5,h,1,8,Windows 11,5,0,9,3,1
+HP,1,144,2.29 kg,33499,amd,ryzen 5,h,1,16,Windows 11,5,0,9,3,1
+Lenovo,1,60,2.35 kg,49000,intel,i7,h,1,16,dos,8,1,6,3,2
+Dell,1,60,2.81 kg,59000,intel,i7,hx,1,16,Windows 11,4,1,6,5,1
+Dell,1,60,2.672 Kg,52777,intel,i7,h,1,16,Windows 10,4,1,6,3,0
+Lenovo,1,60,2.4 kg,37999,intel,i5,h,1,8,Windows 11,8,1,5,3,1
+Lenovo,512,60,2.4 kg,49999,amd,ryzen 7,hs,1,16,Windows 11,8,0,10,4,1
+Lenovo,2,60,2.5 kg,106000,intel,i7,h,1,32,Windows 11,8,1,6,3,1
+HP,512,144,2.29 kg,34999,amd,ryzen 5,h,1,16,Windows 11,5,0,9,3,1
+Dell,1,60,3.25 kg,147450,intel,i7,hx,1,16,Windows 11,4,1,6,5,1
+HP,1,60,2.35 kg,79777,intel,i9,h,1,16,Windows 11,5,1,7,3,1
+Lenovo,1,60,2.55 kg,70999,intel,i7,hx,1,16,dos,8,1,6,5,2
+Lenovo,1,60,2.4 kg,57799,intel,i7,h,1,16,Windows 11,8,1,6,3,1
+Lenovo,512,144,2.25 kg,43999,amd,ryzen 7,h,1,8,Windows 11,8,0,10,3,1
+Lenovo,1,60,2.3 kg,58999,intel,i7,h,1,16,dos,8,1,6,3,2
+Lenovo,1,60,2.55 kg,124999,intel,i9,hx,1,16,Windows 11,8,1,7,5,1
+Acer,512,60,2.49 kg,54999,intel,i7,h,1,16,Windows 10,2,1,6,3,0
+ASUS,1,144,2.00 Kg,82999,amd,ryzen 7,hs,1,16,Windows 11,1,0,10,4,1
+Dell,512,60,2.52 kg,39999,amd,ryzen 7,h,1,16,Windows 11,4,0,10,3,1
+HP,512,144,2.29 kg,53599,intel,i7,h,1,16,dos,5,1,6,3,2
+HP,512,144,2.4kg,46149,amd,ryzen 7,h,1,16,dos,5,0,10,3,2
+HP,512,144,2.4 kg,42000,amd,ryzen 5,h,1,16,dos,5,0,9,3,2
+Lenovo,512,60,2.4 kg,50777,amd,ryzen 7,h,1,16,dos,8,0,10,3,2
+Lenovo,512,60,2.35 kg,43499,intel,i7,h,1,16,dos,8,1,6,3,2
+Lenovo,512,144,2.25 kg,43800,amd,ryzen 7,h,1,16,dos,8,0,10,3,2
+Lenovo,512,144,2.25 kg,43000,amd,ryzen 7,h,1,8,dos,8,0,10,3,2
+HP,512,144,2.4kg,58888,amd,ryzen 5,h,1,16,dos,5,0,9,3,2
+HP,512,144,2.4kg,46149,amd,ryzen 7,h,1,16,dos,5,0,10,3,2
+HP,512,144,2.4kg,46149,amd,ryzen 7,h,1,16,dos,5,0,10,3,2
+HP,1,144,2.33 kg,55999,intel,i7,h,1,16,dos,5,1,6,3,2
+HP,512,144,2.4kg,36999,amd,ryzen 5,h,1,16,dos,5,0,9,3,2
+HP,512,144,2.29 kg,50499,intel,i7,h,1,16,dos,5,1,6,3,2
+HP,512,144,2.29 kg,50999,intel,i7,h,1,16,dos,5,1,6,3,2
+HP,512,144,2.29 kg,30999,amd,ryzen 5,h,1,8,dos,5,0,9,3,2
+HP,512,144,2.29 kg,28999,amd,ryzen 5,h,1,8,dos,5,0,9,3,2
+ASUS,1,144,2.90 Kg,103999,intel,i9,h,2,32,Windows 11,1,1,7,3,1
+ASUS,1,144,1.65 Kg,53499,amd,ryzen 7,hs,2,16,Windows 11,1,0,10,4,1
+ASUS,1,144,1.65 Kg,53499,amd,ryzen 7,hs,2,16,Windows 11,1,0,10,4,1
+ASUS,1,144,2.60 Kg,117699,intel,i9,h,2,32,Windows 11,1,1,7,3,1
+HP,512,144,2.46 Kg,35500,amd,ryzen 7,h,1,16,dos,5,0,10,3,2
+HP,512,144,2.46 Kg,35500,amd,ryzen 7,h,1,16,dos,5,0,10,3,2
+HP,1,144,2.46 Kg,54699,intel,i7,h,1,16,dos,5,1,6,3,2
+Acer,512,60,2.50 kg,29999,intel,i5,h,1,8,dos,2,1,5,3,2
+Lenovo,512,144,2.315 kg,46800,intel,i5,h,1,8,Windows 11,8,1,5,3,1
+ASUS,1,144,1.90 Kg,44999,amd,ryzen 7,hs,2,16,Windows 11,1,0,10,4,1
+ASUS,512,144,1.60 Kg,45999,amd,ryzen 9,hs,2,16,Windows 11,1,0,11,4,1
+ASUS,1,144,2.60 Kg,47049,intel,i7,h,2,16,Windows 10,1,1,6,3,0
+ASUS,1,144,2.30 Kg,41999,amd,ryzen 7,h,2,16,Windows 10,1,0,10,3,0
+ASUS,1,144,1.70 Kg,50999,amd,ryzen 9,hs,2,16,Windows 11,1,0,11,4,1
+ASUS,512,144,1.30 Kg,52999,amd,ryzen 7,hs,2,16,Windows 11,1,0,10,4,1
+ASUS,512,144,1.30 Kg,62400,amd,ryzen 7,hs,2,16,Windows 11,1,0,10,4,1
+ASUS,512,144,1.18 Kg,53499,intel,i7,h,2,16,Windows 11,1,1,6,3,1
+ASUS,1,144,1.18 Kg,69099,intel,i9,h,2,16,Windows 11,1,1,7,3,1
+ASUS,1,144,2.30 Kg,108900,intel,i9,h,2,32,Windows 11,1,1,7,3,1
+ASUS,2,144,2.90 Kg,107000,intel,i9,h,2,32,Windows 11,1,1,7,3,1
+ASUS,1,144,2.90 Kg,119999,intel,i9,h,2,32,Windows 11,1,1,7,3,1
+ASUS,512,144,2.20 Kg,44000,amd,ryzen 7,hs,2,16,Windows 11,1,0,10,4,1
+HP,512,144,2.29 kg,43899,amd,ryzen 7,h,1,16,Windows 11,5,0,10,3,1
+HP,1,144,2.46 kg,39499,intel,i7,h,1,16,dos,5,1,6,3,2
+HP,512,144,2.29 kg,36999,intel,i7,h,1,8,dos,5,1,6,3,2
+Lenovo,512,144,2.25 kg,27499,amd,ryzen 7,h,1,16,dos,8,0,10,3,2
+HP,512,144,2.46 kg,24750,amd,ryzen 5,h,1,8,Windows 11,5,0,9,3,1
+MSI,2,60,2.89 Kg,129999,intel,i9,h,2,4,Windows 11,9,1,7,3,1
+MSI,1,60,2.1 kg,57999,intel,i7,h,2,16,Windows 11,9,1,6,3,1
+MSI,1,60,2.25 kg,62049,intel,i7,h,2,16,Windows 11,9,1,6,3,1
+MSI,256,60,1.86 kg,36144,intel,i7,h,2,8,Windows 11,9,1,6,3,1
+MSI,256,60,1.86 kg,32100,intel,i7,h,1,8,dos,9,1,6,3,2
+MSI,1,60,2.9 kg,79599,intel,i7,h,2,32,Windows 11,9,1,6,3,1
+MSI,1,60,2.38 kg,83299,intel,i7,h,2,32,Windows 11,9,1,6,3,1
+Lenovo,512,60,2.55 kg,71000,intel,i7,hx,1,16,Windows 11,8,1,6,5,1
+ASUS,1,144,2 Kg,102999,intel,i9,h,2,32,Windows 11,1,1,7,3,1
+ASUS,1,144,2.50 Kg,135000,intel,i7,hx,2,16,Windows 11,1,1,6,5,1
+ASUS,512,144,2.20 Kg,47599,amd,ryzen 7,h,2,16,Windows 11,1,0,10,3,1
+ASUS,512,144,2.20 Kg,84999,amd,ryzen 9,hs,2,16,Windows 11,1,0,11,4,1
+ASUS,512,144,2.20 Kg,34499,amd,ryzen 7,h,2,16,Windows 11,1,0,10,3,1
+ASUS,512,144,2.20 Kg,60149,intel,i7,h,2,16,Windows 11,1,1,6,3,1
+ASUS,512,144,2.20 Kg,69700,intel,i7,h,2,16,Windows 11,1,1,6,3,1
+ASUS,512,144,2.20 Kg,64999,intel,i9,h,2,16,Windows 11,1,1,7,3,1
+Dell,512,60,2.81 kg,50099,intel,i7,hx,1,16,Windows 11,4,1,6,5,1
+ASUS,512,144,2.00 Kg,44999,intel,i7,h,2,8,Windows 10,1,1,6,3,0
+Lenovo,512,60,2.3 kg,40000,intel,i7,h,1,16,dos,8,1,6,3,2
+ASUS,512,144,2.20 Kg,91555,intel,i9,h,2,16,Windows 11,1,1,7,3,1
+HP,512,144,2.46 kg,24799,amd,ryzen 5,h,1,8,Windows 11,5,0,9,3,1
+ASUS,512,144,2.20 Kg,43999,intel,i7,h,2,16,Windows 11,1,1,6,3,1
+Dell,512,60,2.81 kg,62000,intel,i7,hx,1,16,Windows 11,4,1,6,5,1
+Lenovo,512,60,1.95 kg,47499,intel,i7,h,1,16,dos,8,1,6,3,2
+Lenovo,512,144,2.315 kg,49999,intel,i7,h,2,16,Windows 11,8,1,6,3,1
+Lenovo,512,60,2.4 kg,41299,amd,ryzen 5,h,1,8,Windows 11,8,0,9,3,1
+Lenovo,512,60,2.4 kg,46000,intel,i7,h,1,8,dos,8,1,6,3,2
+Lenovo,512,60,2.4 kg,49499,intel,i7,h,1,16,dos,8,1,6,3,2
+Lenovo,512,60,2.4 kg,46199,intel,i7,h,1,16,dos,8,1,6,3,2
+Dell,512,60,2.57 kg,38000,amd,ryzen 5,h,1,8,Windows 11,4,0,9,3,1
+ASUS,2,144,3.10 Kg,146499,intel,i9,hx,2,32,Windows 11,1,1,7,5,1
+ASUS,512,144,2.00 Kg,43999,intel,i7,h,2,16,Windows 10,1,1,6,3,0
+ASUS,1,144,2.30 Kg,47555,amd,ryzen 7,h,2,16,Windows 11,1,0,10,3,1
+MSI,1,60,1.86 kg,25999,intel,i5,h,1,8,Windows 11,9,1,5,3,1
+MSI,1,60,1.86 kg,32099,intel,i7,h,1,16,Windows 11,9,1,6,3,1
+MSI,1,60,1.86 kg,29050,intel,i5,h,1,8,Windows 11,9,1,5,3,1
+MSI,1,60,1.86 kg,38499,intel,i5,h,1,8,dos,9,1,5,3,2
+ASUS,1,144,1.18 Kg,84999,intel,i9,h,2,16,Windows 11,1,1,7,3,1
+ASUS,512,60,1.80 Kg,49500,amd,ryzen 5,h,2,8,Windows 11,1,0,9,3,1
+ASUS,1,60,1.95 Kg,39999,amd,ryzen 7,h,2,16,Windows 11,1,0,10,3,1
+ASUS,1,144,2.00 Kg,83999,amd,ryzen 7,hs,2,16,Windows 11,1,0,10,4,1
+ASUS,1,144,2.00 Kg,89999,amd,ryzen 9,hs,2,32,Windows 11,1,0,11,4,1
+ASUS,1,60,2.40 Kg,73999,intel,i7,h,2,32,Windows 11,1,1,6,3,1
+ASUS,1,60,2.40 Kg,85699,amd,ryzen 9,hx,2,32,Windows 11,1,0,11,5,1
+ASUS,1,144,2.20 Kg,57999,intel,i7,h,2,16,Windows 11,1,1,6,3,1
+ASUS,1,60,2.34 kg,135500,intel,i9,h,2,32,Windows 11,1,1,7,3,1
+ASUS,1,144,2.30 Kg,51999,amd,ryzen 7,h,2,16,Windows 11,1,0,10,3,1
+Acer,512,60,2.5 kg,41999,intel,i7,h,2,16,dos,2,1,6,3,2
+Acer,512,60,2.1 kg,24999,intel,i7,p,2,16,dos,2,1,6,6,2
+Acer,512,60,2.1 kg,23999,intel,i5,p,2,8,dos,2,1,5,6,2
+Acer,1,60,2.6 kg,40000,intel,i7,h,2,32,dos,2,1,6,3,2
+Acer,1,60,2.2 Kg,36999,intel,i7,h,2,4,dos,2,1,6,3,2
+ASUS,512,144,2.30 Kg,30999,intel,i5,h,2,8,Windows 11,1,1,5,3,1
+ASUS,1,144,2.30 Kg,49999,amd,ryzen 7,h,2,16,Windows 11,1,0,10,3,1
+ASUS,1,144,1.90 Kg,69999,amd,ryzen 9,hs,2,32,Windows 11,1,0,11,4,1
+ASUS,1,144,3.10 Kg,124999,intel,i9,hx,2,32,Windows 11,1,1,7,5,1
+MSI,1,60,1.86 kg,24499,intel,i5,h,1,8,dos,9,1,5,3,2
+MSI,1,60,2.25 kg,41999,intel,i7,h,1,16,Windows 11,9,1,6,3,1
+ASUS,512,144,2.00 Kg,42500,intel,i7,h,2,16,Windows 11,1,1,6,3,1
+MSI,1,60,2.25 kg,57799,intel,i7,h,1,16,Windows 11,9,1,6,3,1
+MSI,1,60,2.25 kg,70000,intel,i7,h,1,16,Windows 11,9,1,6,3,1
+MSI,1,60,1.86 kg,35480,intel,i7,h,1,16,Windows 10,9,1,6,3,0
+MSI,1,60,1.86 kg,36959,intel,i7,h,1,16,Windows 11,9,1,6,3,1
+ASUS,512,144,2.00 Kg,69999,amd,ryzen 7,hs,2,16,Windows 11,1,0,10,4,1
+ASUS,1,144,2.2 Kg,44449,intel,i7,h,2,16,Windows 11,1,1,6,3,1
+ASUS,512,144,2.1 Kg,64999,amd,ryzen 7,hs,2,16,Windows 11,1,0,10,4,1
+Lenovo,512,144,2.25 kg,29999,intel,i7,h,1,16,dos,8,1,6,3,2
+Acer,256,60,1.824 Kg,24199,intel,i5,p,2,8,dos,2,1,5,6,2
+Acer,512,60,1.824 Kg,25700,intel,i7,p,2,8,dos,2,1,6,6,2
+Acer,512,60,2.15 Kg,25299,amd,ryzen 5,u,2,8,dos,2,0,9,7,2
+Acer,512,60,2.15 Kg,32499,amd,ryzen 7,u,2,16,dos,2,0,10,7,2
+ASUS,512,144,2 Kg,36000,intel,i7,h,2,16,Windows 11,1,1,6,3,1
+Lenovo,512,144,2.315 kg,60499,intel,i7,h,1,16,dos,8,1,6,3,2
+ASUS,512,144,2.30 Kg,20999,amd,ryzen 5,h,1,8,Windows 11,1,0,9,3,1
+ASUS,512,144,2.30 Kg,23100,amd,ryzen 5,h,2,8,Windows 11,1,0,9,3,1
+MSI,256,60,1.86 kg,32000,intel,i7,h,1,8,dos,9,1,6,3,2
+HP,1,144,2.46 kg,49999,intel,i7,h,1,16,dos,5,1,6,3,2
+HP,512,144,2.46 kg,24999,amd,ryzen 5,h,1,8,Windows 11,5,0,9,3,1
+Acer,512,60,2.4 Kg,24499,intel,i5,h,1,16,Windows 10,2,1,5,3,0
+Dell,512,60,2.559 Kg,47777,intel,i5,h,1,8,Windows 11,4,1,5,3,1
+HP,512,60,2.3 kg,28999,intel,i5,h,1,16,Windows 11,5,1,5,3,1
+HP,1,144,2.48 kg,37800,intel,i7,h,1,16,dos,5,1,6,3,2
+HP,512,144,2.46 kg,47500,intel,i7,h,1,16,Windows 11,5,1,6,3,1
+ASUS,512,144,2.10 Kg,57666,amd,ryzen 7,h,2,16,Windows 11,1,0,10,3,1
+Lenovo,1,60,2.4 kg,49999,intel,i7,h,1,16,dos,8,1,6,3,2
+Lenovo,512,60,2.45 kg,53999,amd,ryzen 7,h,1,16,Windows 11,8,0,10,3,1
+Dell,512,60,2.559 Kg,33999,intel,i5,h,1,8,dos,4,1,5,3,2
+ASUS,1,144,2.10 Kg,35999,amd,ryzen 7,h,2,16,Windows 11,1,0,10,3,1
+ASUS,512,144,2.20 Kg,49999,intel,i7,h,2,16,Windows 11,1,1,6,3,1
+ASUS,512,144,2.00 Kg,29999,intel,i5,h,2,8,Windows 11,1,1,5,3,1
+Lenovo,1,60,2.4 kg,45999,amd,ryzen 7,h,1,16,dos,8,0,10,3,2
+ASUS,1,60,1.65 kg,30999,intel,i7,h,2,16,Windows 11,1,1,6,3,1
+ASUS,512,144,2.00 Kg,25999,intel,i5,h,2,8,Windows 11,1,1,5,3,1
+ASUS,512,144,2.00 Kg,33499,intel,i7,h,2,16,Windows 11,1,1,6,3,1
+ASUS,512,144,2.30 Kg,40999,amd,ryzen 7,h,2,16,Windows 11,1,0,10,3,1
+Lenovo,256,144,2.25 kg,27499,intel,i7,h,1,8,Windows 11,8,1,6,3,1
+Acer,512,60,1.5 kg,35199,amd,ryzen 7,u,1,16,Windows 11,2,0,10,7,1
+MSI,1,60,1.90 kg,48499,amd,ryzen 7,h,1,16,Windows 10,9,0,10,3,0
+ASUS,1,144,2.00 Kg,57999,intel,i7,h,1,16,Windows 10,1,1,6,3,0
+ASUS,512,144,2 kg,35999,intel,i7,h,1,16,Windows 11,1,1,6,3,1
+Dell,512,60,2.44 kg,25000,intel,i5,h,1,8,dos,4,1,5,3,2
+Dell,512,60,2.44 kg,32999,intel,i7,h,1,16,Windows 10,4,1,6,3,0
+HP,1,144,2.28 kg,39799,intel,i5,h,1,8,dos,5,1,5,3,2
+Lenovo,512,144,2.25 kg,26899,intel,i5,h,1,8,dos,8,1,5,3,2
+ASUS,1,60,2 Kg,70000,intel,i7,h,2,16,Windows 11,1,1,6,3,1
+ASUS,2,144,3 Kg,114999,intel,i9,hx,2,32,Windows 11,1,1,7,5,1
+ASUS,2,144,2.59 kg,125000,amd,ryzen 9,hx,2,32,Windows 11,1,0,11,5,1
+ASUS,512,144,2.20 Kg,18499,amd,ryzen 7,h,2,8,dos,1,0,10,3,2
+HP,512,144,2.29 kg,32000,intel,i7,h,1,16,dos,5,1,6,3,2
+MSI,1,60,2.9 kg,79999,intel,i9,h,1,32,Windows 11,9,1,7,3,1
+Dell,1,60,2.672 kg,69999,intel,i7,h,1,32,Windows 11,4,1,6,3,1
+Dell,512,60,2.672 Kg,44499,intel,i7,h,1,16,Windows 11,4,1,6,3,1
+Dell,512,60,2.672 Kg,37500,intel,i7,h,1,16,Windows 11,4,1,6,3,1
+Dell,512,60,2.65 kg,29399,intel,i7,h,1,16,Windows 11,4,1,6,3,1
+Dell,512,60,2.65 kg,36499,intel,i7,h,1,16,Windows 11,4,1,6,3,1
+Dell,512,60,2.559 Kg,25199,intel,i5,h,1,8,Windows 10,4,1,5,3,0
+MSI,1,60,2.47 kg,49999,intel,i7,h,1,16,Windows 11,9,1,6,3,1
+Dell,512,60,2.559 Kg,22999,intel,i5,h,1,16,Windows 10,4,1,5,3,0
+Lenovo,512,144,2.25 kg,26500,amd,ryzen 5,h,1,8,Windows 11,8,0,9,3,1
+HP,512,144,2.23 kg,25999,intel,i7,h,1,8,dos,5,1,6,3,2
+Lenovo,1,60,2.5 kg,64999,intel,i7,h,1,16,Windows 11,8,1,6,3,1
+Lenovo,512,144,2.25 kg,22999,amd,ryzen 7,h,1,16,Windows 11,8,0,10,3,1
+MSI,1,60,2.45 kg,53399,intel,i7,h,1,32,Windows 10,9,1,6,3,0
+Lenovo,512,144,2.25 kg,28777,intel,i5,h,1,16,dos,8,1,5,3,2
+Lenovo,1,60,2.4 kg,55299,amd,ryzen 7,h,1,16,Windows 11,8,0,10,3,1
+Lenovo,1,60,2.4 kg,45999,amd,ryzen 7,h,1,16,dos,8,0,10,3,2
+Lenovo,2,60,2.5 kg,111249,amd,ryzen 9,hx,1,32,Windows 11,8,0,11,5,1
+Lenovo,512,144,2.25 kg,27999,amd,ryzen 5,h,1,8,Windows 11,8,0,9,3,1
+Lenovo,512,144,2.25 kg,38999,amd,ryzen 7,h,1,16,Windows 11,8,0,10,3,1
+Lenovo,256,144,2.25 kg,43777,intel,i7,h,1,16,dos,8,1,6,3,2
+Lenovo,256,144,2.25 kg,23099,amd,ryzen 7,h,1,16,dos,8,0,10,3,2
+HP,512,144,2.29 kg,28888,intel,i5,h,1,8,Windows 11,5,1,5,3,1
+Dell,512,60,2.65 kg,44199,intel,i7,h,1,16,Windows 11,4,1,6,3,1
+Dell,512,60,2.36 kg,49849,intel,i7,h,1,16,Windows 10,4,1,6,3,0
+Razer,1,60,2.08kg,49999,intel,i7,h,1,32,Windows 10,11,1,6,3,0
+Lenovo,256,144,2.25 kg,18399,amd,ryzen 5,h,1,16,dos,8,0,9,3,2
+Lenovo,512,60,2.3 kg,24249,intel,i7,h,1,16,dos,8,1,6,3,2
+HP,1,60,2.28 kg,19115,intel,i5,h,1,16,dos,5,1,5,3,2
+HP,256,144,2.28 kg,20999,intel,i5,h,1,8,dos,5,1,5,3,2
+ASUS,512,144,2.10 kg,31870,amd,ryzen 7,h,2,16,Windows 11,1,0,10,3,1
+ASUS,1,144,2.30 Kg,31535,intel,i7,h,2,16,Windows 10,1,1,6,3,0
+ASUS,512,144,2 kg,27770,intel,i7,h,2,16,Windows 10,1,1,6,3,0
+ASUS,1,144,2.30 Kg,68570,amd,ryzen 9,hx,2,32,Windows 10,1,0,11,5,0
+ASUS,1,144,2.30 Kg,71830,amd,ryzen 9,hx,2,32,Windows 10,1,0,11,5,0
+ASUS,1,144,1.60 Kg,58349,amd,ryzen 9,hs,2,16,Windows 10,1,0,11,4,0
+ASUS,2,144,2.60 Kg,93300,intel,i9,h,2,32,Windows 10,1,1,7,3,0
+ASUS,1,60,2.34 kg,84870,intel,i9,h,2,32,Windows 11,1,1,7,3,1
+Lenovo,256,144,2.25 kg,28888,intel,i7,h,1,8,Windows 11,8,1,6,3,1
+Lenovo,512,60,2.4 Kg,33999,intel,i7,h,1,16,dos,8,1,6,3,2
+Lenovo,1,60,2.3 Kg,37799,intel,i7,h,1,16,dos,8,1,6,3,2
+Dell,512,60,2.672 Kg,51899,intel,i7,h,1,16,dos,4,1,6,3,2
+Dell,512,60,2.672 Kg,42999,intel,i7,h,1,16,dos,4,1,6,3,2
+Lenovo,512,144,2.2 kg,22999,intel,i5,h,1,8,dos,8,1,5,3,2
+Lenovo,512,144,2.25 kg,21649,amd,ryzen 5,h,1,8,dos,8,0,9,3,2
+ASUS,512,144,2.00 Kg,31500,intel,i7,h,2,16,Windows 10,1,1,6,3,0
+Lenovo,1,60,2.4 kg,34720,intel,i7,h,1,16,dos,8,1,6,3,2
+Lenovo,1,60,2.5 kg,73249,amd,ryzen 7,h,1,16,Windows 11,8,0,10,3,1
+Lenovo,2,60,2.5 kg,69500,intel,i7,h,1,32,Windows 11,8,1,6,3,1
+ASUS,512,144,2.20 Kg,42300,intel,i7,h,2,16,Windows 11,1,1,6,3,1
+ASUS,512,144,2.60 Kg,33749,intel,i7,h,2,16,Windows 10,1,1,6,3,0
+MSI,1,60,2.25 Kg,32699,intel,i7,h,1,16,Windows 11,9,1,6,3,1
+Dell,512,60,2.65 kg,32999,intel,i7,h,1,16,dos,4,1,6,3,2
+ASUS,512,144,1.30 Kg,52000,amd,ryzen 9,h,1,16,Windows 10,1,0,11,3,0
+Lenovo,256,144,2.25 Kg,19549,intel,i5,h,1,8,Windows 11,8,1,5,3,1
+MSI,1,60,2.38 kg,69455,intel,i9,h,1,32,Windows 10,9,1,7,3,0
+Lenovo,1,60,2.4 kg,27699,intel,i7,h,1,16,dos,8,1,6,3,2
+MSI,2,60,2.9 Kg,75549,intel,i9,h,1,32,Windows 10,9,1,7,3,0
+ASUS,512,144,2.30 Kg,41199,intel,i7,h,1,16,Windows 10,1,1,6,3,0
+Razer,1,60,2.01 kg,64422,intel,i9,h,1,32,Windows 10,11,1,7,3,0
+Lenovo,512,60,2.4 kg,30199,intel,i7,h,1,8,dos,8,1,6,3,2
+Lenovo,256,144,2.2 kg,19149,amd,ryzen 7,h,1,16,dos,8,0,10,3,2
+MSI,1,60,2.38 kg,45249,intel,i7,h,1,16,Windows 10,9,1,6,3,0
+MSI,1,60,2.1 kg,65999,intel,i7,h,1,16,Windows 10,9,1,6,3,0
+MSI,1,60,2.38 kg,98000,intel,i9,h,1,32,Windows 11,9,1,7,3,1
+MSI,1,60,2.1 kg,64899,intel,i9,h,1,32,Windows 10,9,1,7,3,0
+MSI,1,60,2.1 kg,54499,intel,i7,h,1,8,Windows 10,9,1,6,3,0
+MSI,1,60,2.38 kg,48365,intel,i7,h,1,8,Windows 10,9,1,6,3,0
+MSI,2,60,2.9 Kg,82699,intel,i9,h,1,4,Windows 10,9,1,7,3,0
+HP,256,144,2.46 Kg,21000,intel,i5,h,1,8,Windows 11,5,1,5,3,1
+Lenovo,512,144,2.25 Kg,27999,amd,ryzen 7,h,1,8,dos,8,0,10,3,2
+ASUS,2,144,2.60 Kg,95800,intel,i9,h,2,32,Windows 10,1,1,7,3,0
+MSI,1,60,2.25 kg,31949,intel,i7,h,1,16,Windows 10,9,1,6,3,0
+MSI,512,60,2.25 kg,27999,intel,i7,h,1,8,dos,9,1,6,3,2
+ASUS,1,144,2.30 Kg,72280,amd,ryzen 9,hx,2,32,Windows 10,1,0,11,5,0
+ASUS,1,60,2.30 Kg,36550,intel,i7,h,1,16,Windows 10,1,1,6,3,0
+MSI,2,60,2.38 kg,105000,intel,i9,h,1,32,Windows 10,9,1,7,3,0
+ACER,512,60,2.30 Kg,40000,amd,ryzen 7,h,2,16,Windows 10,0,0,10,3,0
+Dell,512,60,2.57 kg,40500,amd,ryzen 7,h,1,8,Windows 11,4,0,10,3,1
+Lenovo,512,144,2.2 kg,40000,intel,i7,h,1,16,Windows 10,8,1,6,3,0
+Dell,512,60,2.65 kg,48000,intel,i7,h,1,16,dos,4,1,6,3,2
+Lenovo,512,144,2.25 kg,33000,intel,i5,h,1,16,dos,8,1,5,3,2
+Dell,512,60,2.65 kg,45149,intel,i7,h,1,16,dos,4,1,6,3,2
+HP,1,60,1.85 kg,39000,amd,ryzen 7,h,1,8,dos,5,0,10,3,2
+MSI,1,60,1.86 kg,60000,intel,i7,h,1,32,Windows 10,9,1,6,3,0
+Lenovo,256,144,2.2 kg,28888,intel,i7,h,1,8,dos,8,1,6,3,2
+Dell,512,60,1.75 kg,40999,intel,i7,u,1,8,Windows 11,4,1,6,7,1
+Lenovo,512,60,1.59 kg,30999,intel,i7,h,2,8,Windows 11,8,1,6,3,1
+Lenovo,512,60,1.59 kg,26199,intel,i5,h,1,8,dos,8,1,5,3,2
+Lenovo,512,60,1.61 kg,38888,amd,ryzen 5,hs,1,8,Windows 11,8,0,9,4,1
+Lenovo,512,60,1.5 kg,37777,intel,i7,h,2,16,Windows 11,8,1,6,3,1
+Lenovo,512,60,1.59 kg,29999,intel,i7,h,1,8,dos,8,1,6,3,2
+MSI,512,60,1.7 kg,19999,intel,i5,u,1,8,dos,9,1,5,7,2
+Lenovo,512,60,1.61 kg,17999,amd,ryzen 7,u,1,8,dos,8,0,10,7,2
+Lenovo,512,60,1.6 kg,31999,intel,i5,h,1,16,Windows 11,8,1,5,3,1
+Lenovo,512,60,1.63 kg,18888,intel,i5,u,2,8,dos,8,1,5,7,2
+HP,256,60,1.59 kg,15999,intel,i3,u,1,4,dos,5,1,4,7,2
+Lenovo,512,60,1.59 kg,28888,intel,i7,h,2,8,dos,8,1,6,3,2
+Acer,512,60,1.78 kg,16777,amd,ryzen 7,u,2,8,dos,2,0,10,7,2
+Lenovo,512,60,1.59 kg,25999,intel,i5,h,2,16,Windows 11,8,1,5,3,1
+HP,512,60,1.62 kg,32999,intel,i5,u,1,8,Windows 11,5,1,5,7,1
+HP,512,60,1.62 kg,42999,intel,i7,u,1,16,Windows 11,5,1,6,7,1
+ASUS,1,60,1.88 kg,36999,snapdragon,snapdragon,p,1,16,Windows 11,1,2,12,6,1
+ASUS,512,60,1.42 kg,50999,snapdragon,snapdragon,p,1,16,Windows 11,1,2,12,6,1
+ASUS,512,60,1.30 kg,53777,amd,ryzen 9,hs,1,16,Windows 11,1,0,11,4,1
+Lenovo,512,60,1.65 kg,23999,intel,i5,h,1,8,dos,8,1,5,3,2
+Lenovo,512,60,1.62 kg,29999,intel,i7,h,2,16,dos,8,1,6,3,2
+ASUS,1,60,1.65 kg,89999,intel,ultra 7,u,1,32,Windows 11,1,1,14,7,1
+ASUS,2,60,1.85 kg,136666,amd,ai 9,hx,1,4,Windows 11,1,0,1,5,1
+Dell,512,60,1.66 kg,21499,intel,i5,u,1,8,dos,4,1,5,7,2
+Dell,1,60,1.75 kg,44444,intel,i7,u,1,16,Windows 11,4,1,6,7,1
+ASUS,2,60,1.50 kg,95999,amd,ai 9,hx,1,32,Windows 11,1,0,1,5,1
+ASUS,2,60,1.65 kg,109000,intel,ultra 9,u,1,32,Windows 11,1,1,15,7,1
+Dell,512,60,1.66 kg,25499,intel,i7,u,1,8,dos,4,1,6,7,2
+Dell,512,60,1.75 kg,33999,intel,i5,u,1,8,Windows 11,4,1,5,7,1
+HP,512,60,1.59 kg,24499,intel,i5,u,1,8,dos,5,1,5,7,2
+Dell,256,60,1.70 kg,17777,amd,ryzen 5,u,1,8,dos,4,0,9,7,2
+Lenovo,512,60,1.62 kg,20999,intel,i5,h,1,8,dos,8,1,5,3,2
+Lenovo,512,60,1.62 kg,25499,intel,i5,h,2,8,dos,8,1,5,3,2
+HP,512,60,1.79 kg,32999,intel,i5,u,1,8,Windows 11,5,1,5,7,1
+Dell,256,60,1.66 kg,19499,intel,i5,u,1,4,dos,4,1,5,7,2
+MSI,512,60,1.9 kg,30499,intel,i7,h,1,8,dos,9,1,6,3,2
+HP,512,60,1.51 kg,42888,intel,i7,u,1,16,Windows 11,5,1,6,7,1
+Dell,512,60,1.66 kg,15999,intel,i3,u,1,8,dos,4,1,4,7,2
+HP,512,60,1.81 kg,29999,intel,i5,u,1,8,Windows 11,5,1,5,7,1
+Dell,256,60,1.66 kg,19999,intel,i5,u,1,8,dos,4,1,5,7,2
+MSI,512,60,0.99 kg,44999,intel,ultra 7,u,2,16,Windows 11,9,1,14,7,1
+ASUS,512,60,1.70 kg,24499,intel,i5,u,2,8,Windows 11,1,1,5,7,1
+ASUS,512,144,1.30 kg,50999,amd,ryzen 7,h,2,16,Windows 11,1,0,10,3,1
+Lenovo,512,60,1.62 kg,16999,intel,i3,u,1,8,dos,8,1,4,7,2
+Lenovo,256,60,1.55 kg,19999,intel,i3,u,1,8,Windows 11,8,1,4,7,1
+HP,512,60,1.59 kg,21888,intel,i5,u,1,8,dos,5,1,5,7,2
+Dell,512,60,1.75 kg,34999,intel,i5,u,1,16,Windows 11,4,1,5,7,1
+HP,512,60,1.87 kg,43999,intel,ultra 7,u,1,16,Windows 11,5,1,14,7,1
+Lenovo,512,60,1.6 kg,29999,intel,i5,u,1,8,Windows 11,8,1,5,7,1
+MSI,512,60,1.9 kg,36850,intel,ultra 5,u,1,16,Windows 11,9,1,13,7,1
+MSI,512,60,1.9 kg,41850,intel,ultra 7,u,1,16,Windows 11,9,1,14,7,1
+MSI,1,60,1.9 kg,48950,intel,ultra 9,u,1,16,Windows 11,9,1,15,7,1
+ASUS,1,60,1.50 kg,61999,amd,ai 7,h,1,4,Windows 11,1,0,0,3,1
+ASUS,2,60,1.85 kg,152000,amd,ai 9,hx,1,4,Windows 11,1,0,1,5,1
+ASUS,2,60,1.50 kg,97777,amd,ai 9,hx,1,32,Windows 11,1,0,1,5,1
+ASUS,256,60,1.63 kg,13499,amd,ryzen 3,u,2,8,Windows 11,1,0,8,7,1
+ASUS,512,60,1.50 kg,42777,intel,i9,h,2,16,Windows 11,1,1,7,3,1
+Lenovo,512,60,1.62 kg,24444,intel,i5,h,1,16,dos,8,1,5,3,2
+HP,512,60,1.59 kg,27777,intel,i7,u,1,8,dos,5,1,6,7,2
+ASUS,1,60,1.30 kg,8888,intel,celeron,h,1,4,Windows 11,1,1,3,3,1
+Lenovo,512,60,1.63 kg,26666,intel,i7,u,2,8,Windows 11,8,1,6,7,1
+Lenovo,512,60,1.63 kg,24999,intel,i7,u,2,8,Windows 11,8,1,6,7,1
+Lenovo,512,60,1.66 kg,28999,intel,i7,g7,1,8,dos,8,1,6,2,2
+HP,1,60,3.7104kg,89999,intel,i9,h,1,16,Windows 11,5,1,7,3,1
+ASUS,1,60,0.98 kg,53999,snapdragon,snapdragon,p,1,16,Windows 11,1,2,12,6,1
+ASUS,512,60,1.70 kg,23199,intel,i5,h,1,8,Windows 11,1,1,5,3,1
+ASUS,512,60,1.70 kg,24199,intel,i5,h,1,16,Windows 11,1,1,5,3,1
+Lenovo,256,60,1.54 kg,11199,intel,celeron,h,1,8,dos,8,1,3,3,2
+Lenovo,512,60,1.82 kg,41999,intel,ultra 5,u,1,16,Windows 11,8,1,13,7,1
+Lenovo,512,60,1.82 kg,44888,intel,ultra 7,u,1,16,Windows 11,8,1,14,7,1
+ASUS,512,60,1.70 kg,30999,intel,i7,h,1,16,Windows 11,1,1,6,3,1
+Dell,512,60,1.66 kg,18599,intel,i3,u,1,8,dos,4,1,4,7,2
+ASUS,1,60,1.28 kg,58888,intel,ultra 7,u,1,16,Windows 11,1,1,14,7,1
+Microsoft,1,60,895 g,154999,snapdragon,snapdragon,p,1,32,Windows 11,10,2,12,6,1
+Dell,512,60,1.65 kg,15999,intel,i3,u,1,8,dos,4,1,4,7,2
+Dell,512,60,1.65 kg,28999,intel,i7,u,1,16,dos,4,1,6,7,2
+Lenovo,256,60,1.62 kg,15999,intel,i3,u,2,8,dos,8,1,4,7,2
+Dell,512,60,1.73 kg,24999,intel,i7,g7,1,16,dos,4,1,6,2,2
+HP,512,60,1.59 kg,24444,intel,i5,u,1,8,dos,5,1,5,7,2
+MSI,512,60,1.7 kg,20999,intel,i5,u,1,8,dos,9,1,5,7,2
+ASUS,512,60,1.70 kg,20949,intel,i5,u,1,8,dos,1,1,5,7,2
+ASUS,512,60,1.50 kg,33999,amd,ryzen 7,u,1,8,Windows 11,1,0,10,7,1
+ASUS,512,60,1.50 kg,28222,amd,ryzen 5,u,1,4,Windows 11,1,0,9,7,1
+ASUS,512,60,1.70 kg,27999,intel,i7,u,1,16,dos,1,1,6,7,2
+ASUS,256,60,1.63 kg,12999,intel,i3,u,1,4,Windows 11,1,1,4,7,1
+ASUS,256,60,1.63 kg,12499,amd,ryzen 3,u,1,4,dos,1,0,8,7,2
+HP,512,60,1.91 kg,33499,amd,ryzen 5,hs,1,8,Windows 11,5,0,9,4,1
+HP,512,60,1.59 kg,24499,intel,i5,u,1,8,dos,5,1,5,7,2
+Acer,512,60,1.79 kg,19499,intel,i5,u,1,8,dos,2,1,5,7,2
+Acer,512,60,1.63 kg,14999,intel,i3,u,1,8,dos,2,1,4,7,2
+Lenovo,256,60,1.63 kg,15899,intel,i3,u,1,8,dos,8,1,4,7,2
+Lenovo,1,60,1.99 kg,51999,intel,ultra 7,u,1,16,Windows 11,8,1,14,7,1
+HP,1,60,1.74 kg,15999,amd,ryzen 3,u,1,4,dos,5,0,8,7,2
+Lenovo,512,60,1.62 kg,20999,amd,ryzen 7,u,1,8,Windows 11,8,0,10,7,1
+Lenovo,512,60,1.85 kg,31999,intel,i7,u,1,16,dos,8,1,6,7,2
+HP,512,60,1.59 kg,31999,intel,i7,u,1,8,dos,5,1,6,7,2
+Acer,512,60,2.10 kg,28999,intel,i5,h,1,8,dos,2,1,5,3,2
+Lenovo,512,60,1.62 kg,29888,intel,i7,h,2,16,Windows 11,8,1,6,3,1
+Lenovo,512,60,1.62 kg,22444,intel,i5,h,2,8,Windows 11,8,1,5,3,1
+MSI,512,60,1.4 kg,20749,intel,i5,u,1,8,dos,9,1,5,7,2
+MSI,512,60,1.4 kg,26299,intel,i7,u,1,8,dos,9,1,6,7,2
+Dell,1,60,1.5 kg,17499,intel,i5,g1,1,8,dos,4,1,5,0,2
+Lenovo,512,60,1.85 kg,25999,intel,i5,u,1,16,dos,8,1,5,7,2
+HP,512,60,1.59 kg,32499,intel,i7,u,1,8,dos,5,1,6,7,2
+MSI,256,60,1.4 kg,15499,intel,i3,u,1,8,dos,9,1,4,7,2
+ASUS,512,60,1.63 kg,17999,amd,ryzen 5,u,1,8,Windows 11,1,0,9,7,1
+ASUS,512,60,1.70 kg,20999,intel,i5,u,1,8,Windows 11,1,1,5,7,1
+ASUS,512,60,1.70 kg,22222,amd,ryzen 7,u,1,8,Windows 11,1,0,10,7,1
+ASUS,512,60,1.70 kg,24888,intel,i7,u,1,8,Windows 11,1,1,6,7,1
+ASUS,512,60,1.56 kg,48222,intel,i9,h,2,16,Windows 11,1,1,7,3,1
+ASUS,1,60,1.20 kg,70999,intel,ultra 9,u,1,16,Windows 11,1,1,15,7,1
+HP,256,60,1.59 kg,16499,intel,i3,u,1,4,dos,5,1,4,7,2
+Dell,512,60,1.66 kg,32333,intel,i7,u,1,8,dos,4,1,6,7,2
+Lenovo,512,60,1.55 kg,28888,intel,i5,u,1,8,Windows 11,8,1,5,7,1
+Lenovo,512,60,2.1 kg,38999,intel,i7,u,1,8,Windows 11,8,1,6,7,1
+Lenovo,512,60,2.04 kg,41999,intel,i5,u,1,8,Windows 11,8,1,5,7,1
+Lenovo,256,60,1.5 kg,29499,intel,i5,g7,1,8,Windows 11,8,1,5,2,1
+HP,512,60,1.79 kg,36999,intel,i5,u,1,8,Windows 11,5,1,5,7,1
+Dell,512,60,1.66 kg,26666,intel,i7,u,1,8,dos,4,1,6,7,2
+Lenovo,512,60,1.7 kg,15999,intel,i3,u,1,8,dos,8,1,4,7,2
+HP,512,60,1.50 kg,21499,amd,ryzen 5,u,1,8,Windows 11,5,0,9,7,1
+Lenovo,512,60,1.85 kg,18999,amd,ryzen 7,u,1,8,dos,8,0,10,7,2
+Dell,512,60,1.66 kg,20899,intel,i5,u,1,8,dos,4,1,5,7,2
+ASUS,512,60,1.50 kg,28900,amd,ryzen 5,u,2,8,Windows 11,1,0,9,7,1
+ASUS,512,60,1.50 kg,39200,intel,i5,p,2,8,Windows 11,1,1,5,6,1
+Lenovo,256,60,1.63 kg,15999,intel,i3,u,2,4,Windows 11,8,1,4,7,1
+ASUS,512,60,1.70 kg,24300,intel,i5,h,2,8,Windows 11,1,1,5,3,1
+MSI,512,60,1.7 kg,40749,intel,ultra 5,u,2,16,Windows 11,9,1,13,7,1
+ASUS,2,60,1.65 kg,103777,intel,ultra 9,u,2,32,Windows 11,1,1,15,7,1
+Lenovo,512,60,1.5 kg,36349,amd,ryzen 7,u,1,16,Windows 11,8,0,10,7,1
+Lenovo,512,60,2.1 kg,42699,intel,i7,u,1,16,Windows 11,8,1,6,7,1
+HP,512,60,1.76 kg,46949,intel,i7,u,1,16,Windows 11,5,1,6,7,1
+Dell,256,60,1.65 kg,14999,intel,i3,u,1,8,Windows 11,4,1,4,7,1
+Dell,512,60,1.65 kg,28499,intel,i7,u,1,8,dos,4,1,6,7,2
+HP,1,60,1.74 kg,17999,intel,i5,g1,1,8,Windows 10,5,1,5,0,0
+Dell,256,60,1.65 kg,20999,intel,i5,u,1,8,Windows 11,4,1,5,7,1
+Acer,512,60,1.80 kg,27499,intel,i5,g7,1,8,dos,2,1,5,2,2
+ASUS,512,60,1.00 kg,53499,intel,i7,u,2,16,Windows 11,1,1,6,7,1
+Dell,256,60,1.69 kg,18149,intel,i3,g4,1,4,dos,4,1,4,1,2
+Dell,512,60,1.66 kg,30999,intel,i7,u,1,16,dos,4,1,6,7,2
+Lenovo,512,60,1.62 kg,29000,intel,i5,h,1,8,dos,8,1,5,3,2
+Lenovo,1,60,1.85 kg,15000,intel,i3,u,1,4,dos,8,1,4,7,2
+Lenovo,1,60,1.65 kg,25499,amd,ryzen 7,u,1,8,dos,8,0,10,7,2
+Lenovo,512,60,1.62 kg,23799,intel,i5,h,1,8,Windows 11,8,1,5,3,1
+Dell,512,60,1.65 kg,23499,intel,i5,g7,1,8,Windows 11,4,1,5,2,1
+Lenovo,512,60,1.63 kg,22499,intel,i5,u,1,8,Windows 11,8,1,5,7,1
+ASUS,1,60,1.40 kg,37499,intel,i7,g7,2,16,Windows 10,1,1,6,2,0
+HP,512,60,1.36 kg,58750,intel,i7,u,1,16,Windows 11,5,1,6,7,1
+HP,512,60,1.51 kg,36000,intel,i5,u,1,8,Windows 11,5,1,5,7,1
+HP,512,60,1.51 kg,39499,intel,i5,u,1,8,Windows 11,5,1,5,7,1
+ASUS,1,60,1.66 kg,41999,intel,i7,u,2,16,Windows 10,1,1,6,7,0
+Dell,256,60,1.65 kg,28999,intel,i5,g7,1,8,Windows 11,4,1,5,2,1
+HP,1,60,1.75 kg,33499,intel,i7,g7,1,16,Windows 11,5,1,6,2,1
+Dell,512,60,1.66 kg,35299,intel,i7,u,1,8,dos,4,1,6,7,2
+ASUS,512,60,1.70 kg,27999,intel,i7,h,2,8,Windows 11,1,1,6,3,1
+HP,512,60,1.41 kg,22449,intel,i5,g7,1,8,Windows 11,5,1,5,2,1
+HP,512,60,1.75 kg,25999,intel,i5,g7,1,8,dos,5,1,5,2,2
+HP,256,60,1.74 kg,17500,intel,i5,g7,1,8,dos,5,1,5,2,2
+ASUS,512,60,1.50 kg,42000,amd,ryzen 5,h,2,8,Windows 11,1,0,9,3,1
+ASUS,1,60,1.40 kg,57000,amd,ryzen 7,h,2,16,Windows 11,1,0,10,3,1
+ASUS,1,60,1.40 kg,42799,intel,i7,g7,2,16,Windows 11,1,1,6,2,1
+ASUS,512,60,1.50 kg,34199,intel,i5,h,2,8,Windows 11,1,1,5,3,1
+ASUS,512,60,1.50 kg,42999,intel,i7,h,2,8,Windows 11,1,1,6,3,1
+ASUS,512,60,1.80 kg,33999,intel,i5,h,2,16,Windows 11,1,1,5,3,1
+ASUS,1,60,1.65 kg,58149,intel,i7,g7,2,16,Windows 11,1,1,6,2,1
+Lenovo,512,60,1.5 kg,26749,amd,ryzen 7,u,1,8,Windows 11,8,0,10,7,1
+Lenovo,512,60,1.63 kg,24999,intel,i7,u,2,8,Windows 11,8,1,6,7,1
+MSI,256,60,1.3 kg,19999,amd,ryzen 5,u,1,8,dos,9,0,9,7,2
+Dell,256,60,1.83 kg,19499,intel,i5,g7,1,8,dos,4,1,5,2,2
+ASUS,512,60,1.80 kg,23099,intel,i7,g7,2,8,Windows 11,1,1,6,2,1
+ASUS,512,60,1.63 kg,37999,amd,ryzen 5,u,2,8,Windows 11,1,0,9,7,1
+ASUS,256,60,1.70 kg,13999,intel,i3,u,2,4,Windows 11,1,1,4,7,1
+ASUS,512,60,1.80 kg,18999,intel,i5,g7,2,8,Windows 11,1,1,5,2,1
+ASUS,512,60,1.80 kg,39900,intel,i7,g7,2,8,Windows 11,1,1,6,2,1
+ASUS,512,60,1.88 kg,22999,intel,i5,u,2,8,Windows 11,1,1,5,7,1
+ASUS,512,60,1.88 kg,27820,intel,i5,h,2,8,Windows 11,1,1,5,3,1
+ASUS,512,60,1.88 kg,29999,intel,i7,h,2,8,Windows 11,1,1,6,3,1
+ASUS,256,60,1.80 kg,23000,intel,i3,g4,2,4,Windows 11,1,1,4,1,1
+ASUS,512,60,1.88 kg,25999,intel,i7,u,2,8,Windows 11,1,1,6,7,1
+HP,512,60,1.51 kg,30799,intel,i5,u,1,8,Windows 11,5,1,5,7,1
+Lenovo,512,60,1.65 kg,21949,intel,i5,g7,1,8,dos,8,1,5,2,2
+DELL,512,60,1.66 kg,24999,intel,i5,u,1,8,dos,3,1,5,7,2
+Lenovo,1,60,1.7 kg,21199,amd,ryzen 5,u,1,8,dos,8,0,9,7,2
+Dell,256,60,1.69 Kg,16999,intel,i5,g7,1,4,dos,4,1,5,2,2
+MSI,256,60,1.3 kg,12499,intel,i3,u,1,4,dos,9,1,4,7,2
+Acer,1,60,1.10 kg,16999,intel,i5,g7,1,8,dos,2,1,5,2,2
+ASUS,512,60,1.40 kg,27849,intel,i7,g7,2,16,Windows 11,1,1,6,2,1
+ASUS,1,60,1.14 kg,47150,intel,i7,g7,2,16,Windows 11,1,1,6,2,1
+ASUS,512,60,1.14 kg,29000,intel,i5,g7,2,8,Windows 11,1,1,5,2,1
+Microsoft,512,60,1.94 lb (879 g),104999,intel,i7,h,1,16,Windows 11,10,1,6,3,1
+Huawei,512,60,1.38 kg,29600,intel,i5,g7,2,16,Windows 10,6,1,5,2,0
+Dell,512,60,1.66 kg,34049,intel,i7,u,1,8,dos,4,1,6,7,2
+ASUS,512,60,1.70 Kg,29999,intel,i7,u,2,8,Windows 11,1,1,6,7,1
+ASUS,1,60,1.95 Kg,39999,amd,ryzen 7,h,2,16,Windows 11,1,0,10,3,1
+ASUS,1,60,1.17 Kg,29999,intel,i7,g7,2,16,Windows 11,1,1,6,2,1
+ASUS,512,60,1.39 Kg,42000,intel,i5,p,2,8,Windows 11,1,1,5,6,1
+ASUS,1,60,1.39 Kg,47249,intel,i7,p,2,16,Windows 11,1,1,6,6,1
+ASUS,1,60,1.40 Kg,53830,intel,i7,h,2,16,Windows 11,1,1,6,3,1
+ASUS,512,60,1.70 kg,22049,intel,i5,u,2,8,Windows 11,1,1,5,7,1
+Acer,1,60,1.7 Kg,23499,intel,i7,g7,2,4,dos,2,1,6,2,2
+Acer,1,60,1.7 Kg,17199,intel,i5,g7,2,8,dos,2,1,5,2,2
+Acer,512,60,1.76 Kg,19999,amd,ryzen 7,u,2,8,dos,2,0,10,7,2
+Acer,512,60,1.76 Kg,17499,amd,ryzen 5,u,2,8,dos,2,0,9,7,2
+Acer,1,60,1.9 Kg,20000,intel,i3,g1,2,4,dos,2,1,4,0,2
+Acer,1,60,1.7 Kg,23499,intel,i5,g7,2,8,dos,2,1,5,2,2
+ASUS,1,60,1.88 kg,29499,amd,ryzen 7,h,2,8,Windows 11,1,0,10,3,1
+ASUS,256,60,1.70 kg,14699,intel,i3,u,2,4,Windows 11,1,1,4,7,1
+ASUS,512,60,1.70 kg,21999,intel,i5,u,2,8,Windows 11,1,1,5,7,1
+ASUS,512,60,1.70 kg,25699,intel,i7,h,1,8,Windows 11,1,1,6,3,1
+ASUS,256,60,1.50 kg,20199,intel,i3,g4,2,4,Windows 11,1,1,4,1,1
+ASUS,512,60,1.50 kg,24899,intel,i5,g7,2,8,Windows 11,1,1,5,2,1
+ASUS,512,60,1.50 kg,29699,intel,i7,g7,2,8,Windows 11,1,1,6,2,1
+HP,512,60,1.74 kg,17499,amd,ryzen 7,u,1,8,dos,5,0,10,7,2
+Acer,1,60,1.7 Kg,22000,intel,i3,g4,2,4,dos,2,1,4,1,2
+Acer,1,60,1.10 kg,29999,intel,i5,g7,2,8,dos,2,1,5,2,2
+HP,512,60,1.69 kg,16199,amd,ryzen 3,u,1,8,dos,5,0,8,7,2
+HP,256,60,1.75 kg,11777,intel,i3,g4,1,4,dos,5,1,4,1,2
+Dell,256,60,1.69 Kg,19999,intel,i5,g7,1,4,dos,4,1,5,2,2
+Dell,256,60,1.69 Kg,16666,intel,i5,g7,1,8,dos,4,1,5,2,2
+MSI,512,60,1.3 kg,20250,intel,i5,g7,1,8,Windows 11,9,1,5,2,1
+ASUS,512,60,1.8 Kg,19999,intel,i7,g7,1,8,Windows 11,1,1,6,2,1
+Lenovo,1,60,1.65 Kg,20999,intel,i7,g7,1,4,dos,8,1,6,2,2
+Infinix,512,60,1.24 kg,12500,intel,i7,g7,1,8,Windows 11,7,1,6,2,1
+HP,512,60,1.69 kg,21499,amd,ryzen 7,u,1,8,Windows 11,5,0,10,7,1
+HP,512,60,1.69 kg,14999,amd,ryzen 5,u,1,8,dos,5,0,9,7,2
+Lenovo,1,60,1.6 Kg,6499,amd,amd 3020e,h,1,4,Windows 11,8,0,2,3,1
+Microsoft,256,60,879 g,65599,intel,i5,u,1,8,Windows 11,10,1,5,7,1
+ASUS,512,60,1.80 kg,16999,intel,i5,g7,2,8,Windows 11,1,1,5,2,1
+Dell,512,60,1.70 kg,21499,amd,ryzen 7,u,1,8,dos,4,0,10,7,2
+Lenovo,1,60,1.65 kg,19999,intel,i5,g7,1,8,dos,8,1,5,2,2
+Lenovo,1,60,1.9 kg,46749,intel,i7,h,1,16,dos,8,1,6,3,2
+Lenovo,512,60,1.38 kg,19999,amd,ryzen 7,u,1,8,Windows 11,8,0,10,7,1
+Lenovo,512,60,1.65 kg,17999,amd,ryzen 5,u,1,8,Windows 11,8,0,9,7,1
+Lenovo,512,60,1.65 kg,19349,amd,ryzen 5,u,1,8,dos,8,0,9,7,2
+Lenovo,1,60,1.65 kg,14500,intel,i3,g4,1,4,Windows 11,8,1,4,1,1
+Dell,1,60,1.70 kg,8999,amd,ryzen 3,u,1,4,dos,4,0,8,7,2
+HP,512,60,1.69 kg,18400,intel,i5,u,1,8,dos,5,1,5,7,2
+HP,512,60,1.75 kg,20400,intel,i5,g7,1,8,dos,5,1,5,2,2
+HP,512,60,1.69 kg,15499,amd,ryzen 5,u,1,8,Windows 10,5,0,9,7,0
+HP,512,60,1.69 kg,12499,intel,i3,u,1,4,dos,5,1,4,7,2
+ASUS,256,60,1.60 kg,12000,intel,i3,g4,2,4,Windows 11,1,1,4,1,1
+ASUS,512,60,1.40 kg,27930,intel,i7,g7,2,16,Windows 11,1,1,6,2,1
+Huawei,512,60,1.56 kg,17499,intel,i5,g7,1,8,dos,6,1,5,2,2
+Dell,512,60,1.24 kg,35599,intel,i7,h,1,16,Windows 11,4,1,6,3,1
+Lenovo,1,60,1.85 kg,13499,amd,amd 3020e,h,1,4,dos,8,0,2,3,2
+HP,1,60,2Kg,10999,intel,i3,g1,1,4,Windows 10,5,1,4,0,0
+HP,256,60,1.75 kg,11999,intel,i3,g4,1,8,Windows 10,5,1,4,1,0
+HP,512,60,1.82 kg,12199,intel,i5,g7,1,8,dos,5,1,5,2,2
+dynabook,512,60,1.76 kg,23777,intel,i7,g7,1,8,dos,12,1,6,2,2
+dynabook,256,60,1.76 kg,14999,intel,i5,g1,1,8,dos,12,1,5,0,2
+HP,512,60,1.75 kg,21999,intel,i7,g7,1,8,dos,5,1,6,2,2
+HP,1,60,1.78 kg,9999,amd,ryzen 3,u,1,4,dos,5,0,8,7,2
+ASUS,256,60,1.30 kg,17499,amd,ryzen 5,u,1,8,Windows 11,1,0,9,7,1
+Lenovo,1,60,1.65 kg,10300,intel,i3,g4,1,4,dos,8,1,4,1,2
+Huawei,256,60,2.381 kg,18999,intel,i5,g7,1,8,Windows 11,6,1,5,2,1
+Huawei,256,60,2.381 kg,13499,intel,i3,g4,1,8,Windows 11,6,1,4,1,1
+Dell,512,60,1.632 kg,15549,intel,i5,h,1,8,dos,4,1,5,3,2
+Microsoft,512,60,891 g,76999,intel,i7,g7,1,16,Windows 11,10,1,6,2,1
+Microsoft,256,60,891 g,72999,intel,i7,g7,1,16,Windows 11,10,1,6,2,1
+Lenovo,1,60,1.85 kg,7600,amd,amd 3020e,h,1,4,dos,8,0,2,3,2
+Infinix,256,60,1.48 kg,8499,intel,i3,g1,1,8,Windows 10,7,1,4,0,0
+HP,256,60,1.69 kg,11749,intel,i5,g7,1,8,Windows 10,5,1,5,2,0
+HP,512,60,1.75 kg,20999,intel,i5,g7,1,8,dos,5,1,5,2,2
+HP,512,60,1.75 kg,15499,intel,i5,g7,1,4,dos,5,1,5,2,2
+ASUS,1,60,1.62 kg,39349,intel,i7,g7,2,16,Windows 10,1,1,6,2,0
+ASUS,512,60,1.50 Kg,21999,amd,ryzen 5,u,2,8,Windows 10,1,0,9,7,0
+ASUS,1,60,1.90 Kg,55000,amd,ryzen 7,u,2,16,Windows 10,1,0,10,7,0
+Huawei,512,60,1.56 Kg,23149,intel,i7,g7,1,16,Windows 11,6,1,6,2,1
+Lenovo,1,60,1.6 Kg,14499,intel,i3,u,1,4,dos,8,1,4,7,2
+MSI,512,60,1.3 kg,23799,intel,i7,g7,1,8,Windows 11,9,1,6,2,1
+MSI,512,60,1.3 kg,21000,amd,ryzen 7,u,1,8,Windows 11,9,0,10,7,1
+Lenovo,1,60,2.2 kg,12099,intel,i5,g7,1,8,Windows 11,8,1,5,2,1
+HP,256,60,1.56 kg,17499,intel,i3,g4,1,4,Windows 11,5,1,4,1,1
+Dell,512,60,1.70 kg,12649,amd,ryzen 5,u,1,16,dos,4,0,9,7,2
+Lenovo,1,60,1.65 kg,17999,intel,i5,g7,1,8,dos,8,1,5,2,2
+HP,512,60,1.75 kg,20999,intel,i5,g7,1,8,Windows 10,5,1,5,2,0
+HP,512,60,1.24 kg,17999,intel,i5,g7,1,8,Windows 10,5,1,5,2,0
+HP,1,60,1.75 kg,17499,intel,i5,g7,1,8,Windows 10,5,1,5,2,0
+HP,512,60,1.52 kg,20499,intel,i7,g7,1,8,dos,5,1,6,2,2
+HP,256,60,1.32 kg,19999,intel,i5,g7,1,8,Windows 10,5,1,5,2,0
+MSI,512,60,1.3 kg,17499,intel,i7,g7,1,8,Windows 10,9,1,6,2,0
+Lenovo,512,60,1.9 kg,39499,intel,i7,g7,1,4,Windows 11,8,1,6,2,1
+Dell,1,60,1.78 kg,18000,intel,i5,g7,1,8,dos,4,1,5,2,2
+Dell,512,60,1.69 Kg,26499,intel,i7,g7,1,8,dos,4,1,6,2,2
+Dell,1,60,1.69 Kg,27499,intel,i7,g7,1,16,dos,4,1,6,2,2
+HP,512,60,1.61 Kg,31500,intel,i7,g7,1,16,Windows 11,5,1,6,2,1
+Dell,512,60,1.632,18549,intel,i7,h,1,8,dos,4,1,6,3,2
+Lenovo,1,60,1.38 kg,28000,intel,i5,g7,1,8,dos,8,1,5,2,2
+Dell,1,60,1.69 kg,25000,intel,i5,g7,1,4,dos,4,1,5,2,2
+HP,512,60,1.75 kg,25000,intel,i5,g7,1,16,dos,5,1,5,2,2
+HP,256,60,1.75 kg,25000,intel,i5,g7,1,8,dos,5,1,5,2,2
+HP,1,60,2 Kg,16000,intel,i3,g1,1,4,dos,5,1,4,0,2
+Dell,512,60,1.98 KG,38000,intel,i7,g7,1,8,dos,4,1,6,2,2
+HP,256,60,1.75 kg,38000,intel,i5,g7,1,4,dos,5,1,5,2,2
+Dell,256,60,1.72 kg,38000,intel,i3,g4,1,8,Windows 10,4,1,4,1,0
+Lenovo,1,60,1.7 kg,19000,intel,i3,u,1,4,dos,8,1,4,7,2
+MSI,256,60,1.3 kg,19000,intel,i3,u,1,4,dos,9,1,4,7,2
+Microsoft,1,60,895 g,135000,snapdragon,snapdragon,p,1,16,Windows 11,10,2,12,6,1
+Lenovo,512,60,1.38 kg,35777,intel,ultra 5,u,1,16,dos,8,1,13,7,2
+Lenovo,512,60,1.7 kg,19999,intel,i5,u,1,8,dos,8,1,5,7,2
+Lenovo,512,60,1.43 kg,37999,intel,i7,u,1,8,dos,8,1,6,7,2
+ASUS,512,60,1.69 kg,23999,intel,i7,u,1,8,dos,1,1,6,7,2
+Dell,512,60,1.08 kg,57777,intel,ultra 7,u,3,16,dos,4,1,14,7,2
+Dell,512,60,1.08 kg,56999,intel,ultra 7,u,3,8,dos,4,1,14,7,2
+Dell,512,60,1.08 kg,57777,intel,ultra 7,u,3,16,dos,4,1,14,7,2
+Dell,512,60,1.79 kg,43499,intel,i5,u,3,8,dos,4,1,5,7,2
+Dell,512,60,1.79 kg,37999,intel,i5,u,3,8,dos,4,1,5,7,2
+HP,512,60,1.74 kg,35999,intel,ultra 7,u,1,16,dos,5,1,14,7,2
+HP,512,60,1.79 kg,28777,intel,i5,u,1,16,dos,5,1,5,7,2
+HP,512,60,1.79 kg,28999,intel,i5,u,1,8,dos,5,1,5,7,2
+Lenovo,512,60,1.34 kg,46999,intel,ultra 7,u,1,16,dos,8,1,14,7,2
+HP,512,60,1.74 kg,44444,intel,ultra 7,u,1,8,dos,5,1,14,7,2
+Lenovo,512,60,1.63 kg,46666,intel,ultra 7,u,1,16,dos,8,1,14,7,2
+MSI,1,60,1.35 kg,94999,intel,ultra 9,u,2,32,Windows 11,9,1,15,7,1
+Dell,512,60,1.79 kg,33333,intel,i5,u,1,8,dos,4,1,5,7,2
+Lenovo,512,60,1.43 kg,37777,intel,i7,u,1,8,dos,8,1,6,7,2
+HP,256,60,1.75 kg,24499,intel,i5,g7,1,4,dos,5,1,5,2,2
+Lenovo,512,60,1.81 kg,47999,intel,ultra 7,u,1,16,dos,8,1,14,7,2
+Lenovo,512,60,1.44 kg,45499,intel,ultra 7,u,1,16,dos,8,1,14,7,2
+HP,512,60,1.79 kg,32999,intel,i5,u,1,8,Windows 11,5,1,5,7,1
+HP,512,60,1.51 kg,42888,intel,i7,u,1,16,Windows 11,5,1,6,7,1
+Lenovo,512,60,1.43 kg,37777,intel,i5,u,1,8,dos,8,1,5,7,2
+HP,512,60,1.75 kg,39999,intel,i5,g7,1,8,dos,5,1,5,2,2
+Lenovo,512,60,1.43 kg,39999,intel,i7,u,1,8,dos,8,1,6,7,2
+Dell,512,60,1.81 kg,31999,intel,i5,u,1,8,dos,4,1,5,7,2
+Dell,512,60,1.38 kg,43499,intel,ultra 5,u,3,8,dos,4,1,13,7,2
+Dell,512,60,1.79 kg,37999,intel,i5,u,3,8,dos,4,1,5,7,2
+Lenovo,512,60,1.81 kg,32999,intel,ultra 5,u,1,8,dos,8,1,13,7,2
+Lenovo,512,60,1.44 kg,33999,intel,ultra 5,u,1,8,dos,8,1,13,7,2
+HP,512,60,1.74 kg,30499,intel,ultra 5,u,1,8,dos,5,1,13,7,2
+HP,512,60,1.79 kg,33333,intel,i7,u,1,8,dos,5,1,6,7,2
+HP,512,60,1.79 kg,33333,intel,i5,u,1,16,dos,5,1,5,7,2
+HP,512,60,1.79 kg,27777,intel,i5,u,1,8,dos,5,1,5,7,2
+HP,512,60,1.74 kg,46666,intel,ultra 7,u,1,16,dos,5,1,14,7,2
+Dell,512,60,1.66 kg,48888,intel,i7,u,1,16,dos,4,1,6,7,2
+ASUS,512,60,1.95 kg,39999,intel,i7,h,1,16,Windows 11,1,1,6,3,1
+Lenovo,512,60,1.08 kg,105000,intel,ultra 7,u,3,32,Windows 11,8,1,14,7,1
+MSI,1,60,1.7 kg,56800,intel,ultra 7,u,2,32,Windows 11,9,1,14,7,1
+HP,1,60,1.79 kg,33999,intel,i5,u,1,16,dos,5,1,5,7,2
+Lenovo,512,60,1.7 kg,23499,intel,i5,u,1,8,dos,8,1,5,7,2
+Lenovo,512,60,1.75 kg,33333,intel,i5,g7,1,8,Windows 10,8,1,5,2,0
+MSI,512,60,1.5 kg,31249,intel,i7,u,1,8,dos,9,1,6,7,2
+MSI,512,60,1.5 kg,24999,intel,i7,u,1,8,dos,9,1,6,7,2
+Dell,512,60,1.79 kg,30999,intel,i5,u,1,8,dos,4,1,5,7,2
+Dell,512,60,1.38 kg,38999,intel,ultra 5,u,1,8,dos,4,1,13,7,2
+Dell,512,60,1.38 kg,38999,intel,ultra 5,u,1,8,dos,4,1,13,7,2
+Lenovo,512,60,1.38 kg,30999,intel,ultra 5,u,1,8,dos,8,1,13,7,2
+Lenovo,512,60,1.38 kg,36999,intel,ultra 7,u,1,8,dos,8,1,14,7,2
+Lenovo,1,60,1.25 kg,119000,intel,ultra 7,u,1,32,Windows 11,8,1,14,7,1
+Lenovo,1,60,1.09 kg,78000,intel,i7,u,1,16,Windows 11,8,1,6,7,1
+Lenovo,1,60,1.24 kg,118900,intel,ultra 7,u,1,32,Windows 11,8,1,14,7,1
+Lenovo,1,60,1.38 kg,113000,intel,ultra 7,u,1,16,Windows 11,8,1,14,7,1
+Lenovo,512,60,1.38 kg,100300,intel,ultra 7,u,1,16,Windows 11,8,1,14,7,1
+Lenovo,512,60,1.32 kg,92000,intel,ultra 7,u,1,16,Windows 11,8,1,14,7,1
+Lenovo,512,60,1.38 kg,80850,intel,ultra 5,u,1,16,Windows 11,8,1,13,7,1
+Lenovo,512,60,1.81 kg,36999,intel,i5,h,1,8,dos,8,1,5,3,2
+Lenovo,1,60,1.44 kg,57000,intel,ultra 7,u,1,16,dos,8,1,14,7,2
+Lenovo,512,60,1.43 kg,53000,intel,i7,h,1,16,dos,8,1,6,3,2
+Lenovo,512,60,1.43 kg,40500,intel,i5,u,1,8,dos,8,1,5,7,2
+Lenovo,512,60,1.81 kg,32333,intel,ultra 5,u,1,8,dos,8,1,13,7,2
+Lenovo,1,60,1.08 kg,136599,intel,ultra 7,u,3,32,Windows 11,8,1,14,7,1
+Microsoft,512,60,1.89 Kg,109999,intel,i7,h,1,16,Windows 11,10,1,6,3,1
+Lenovo,1,60,1.08 kg,137999,intel,ultra 7,u,3,16,Windows 11,8,1,14,7,1
+Dell,2,60,1.79 kg,33333,intel,i5,u,1,8,dos,4,1,5,7,2
+Lenovo,512,60,1.81 kg,38888,intel,i7,u,1,8,dos,8,1,6,7,2
+Lenovo,512,60,1.81 kg,33999,intel,i5,u,1,8,dos,8,1,5,7,2
+Lenovo,512,60,1.43 kg,31999,intel,i5,u,1,8,dos,8,1,5,7,2
+Lenovo,512,60,1.7 kg,30999,intel,i7,u,1,8,dos,8,1,6,7,2
+Lenovo,256,60,1.7 kg,29999,intel,i7,g7,1,8,dos,8,1,6,2,2
+Dell,2,60,1.59 Kg,30499,intel,i5,g7,1,8,Windows 10,4,1,5,2,0
+Dell,1,60,1.79 kg,24999,intel,i5,u,1,4,dos,4,1,5,7,2
+Lenovo,512,60,1.81 kg,38888,intel,i5,u,1,8,dos,8,1,5,7,2
+Lenovo,512,60,1.7 kg,29999,intel,i7,u,1,8,dos,8,1,6,7,2
+Microsoft,512,60,0.89 kg,79999,snapdragon,snapdragon,p,1,16,Windows 11,10,2,12,6,1
+Lenovo,512,60,1.81 kg,44444,intel,i7,u,1,16,dos,8,1,6,7,2
+Lenovo,512,60,1.81 kg,43999,intel,i7,h,1,16,dos,8,1,6,3,2
+Dell,1,60,2.18 kg,55999,intel,ultra 7,u,1,16,Windows 11,4,1,14,7,1
+HP,512,60,1.87kg,38499,intel,ultra 5,u,1,16,Windows 11,5,1,13,7,1
+Lenovo,256,60,1.75 kg,34999,intel,i5,g7,1,8,Windows 10,8,1,5,2,0
+Microsoft,256,60,1.98,79999,intel,i7,u,1,16,Windows 11,10,1,6,7,1
+HP,512,60,1.79 kg,40199,intel,i7,u,1,8,dos,5,1,6,7,2
+Dell,256,60,1.35 kg,30999,intel,i5,u,1,8,Windows 11,4,1,5,7,1
+Lenovo,256,60,1.4 kg,23999,intel,i7,g7,1,16,dos,8,1,6,2,2
+Dell,1,60,1.58 kg,52999,intel,i7,u,1,16,Windows 11,4,1,6,7,1
+HP,512,60,1.79 kg,31999,intel,i5,u,1,8,dos,5,1,5,7,2
+Lenovo,512,60,1.7 kg,34777,intel,i5,u,1,8,dos,8,1,5,7,2
+ASUS,512,60,1.70 kg,36199,intel,i7,h,1,16,Windows 11,1,1,6,3,1
+Lenovo,512,60,1.81 kg,45999,intel,i7,u,1,8,dos,8,1,6,7,2
+Dell,512,60,1.36 kg,55449,intel,i7,u,1,16,dos,4,1,6,7,2
+Dell,2,60,1.613 kg,56999,intel,i7,u,1,8,dos,4,1,6,7,2
+Dell,2,60,1.52 kg,25799,intel,i5,g7,1,8,dos,4,1,5,2,2
+HP,256,60,1.38 kg,38888,intel,i5,u,1,16,Windows 11,5,1,5,7,1
+HP,256,60,1.79 kg,38888,intel,i5,u,1,16,Windows 11,5,1,5,7,1
+Dell,2,60,1.36 kg,43500,intel,i5,u,1,8,dos,4,1,5,7,2
+HP,512,60,1.74 kg,39999,intel,i5,g7,1,8,Windows 11,5,1,5,2,1
+Lenovo,512,60,1.44 kg,38899,intel,i5,g7,1,8,Windows 11,8,1,5,2,1
+ASUS,1,60,1.40 kg,37499,intel,i7,g7,2,16,Windows 10,1,1,6,2,0
+HP,512,60,1.51 kg,36000,intel,i5,u,1,8,Windows 11,5,1,5,7,1
+HP,512,60,1.32 kg,62499,intel,i7,u,3,16,Windows 10,5,1,6,7,0
+ASUS,1,60,1.66 kg,41999,intel,i7,u,2,16,Windows 10,1,1,6,7,0
+Dell,512,60,1.81 kg,39888,intel,i7,u,1,8,dos,4,1,6,7,2
+HP,512,60,1.74 kg,36000,intel,i7,u,1,16,dos,5,1,6,7,2
+Dell,2,60,1.79 Kg,31777,intel,i5,g7,1,8,dos,4,1,5,2,2
+Lenovo,512,60,1.64 kg,40999,intel,i7,u,1,8,dos,8,1,6,7,2
+Lenovo,512,60,1.7 kg,41777,intel,i7,u,1,8,dos,8,1,6,7,2
+Lenovo,512,60,1.7 kg,37999,intel,i5,g7,1,8,dos,8,1,5,2,2
+Dell,2,60,1.37 Kg,25000,intel,i5,g7,1,16,dos,4,1,5,2,2
+Lenovo,512,60,1.7 kg,35999,intel,i7,g7,1,8,dos,8,1,6,2,2
+Microsoft,512,60,1.94 lb (879 g),104999,intel,i7,h,1,16,Windows 11,10,1,6,3,1
+HP,512,60,1.74 kg,17499,amd,ryzen 7,u,1,8,dos,5,0,10,7,2
+HP,256,60,2 Kg,12999,intel,i3,g4,1,8,Windows 10,5,1,4,1,0
+Dell,256,60,1.79 Kg,28899,intel,i5,g7,1,8,dos,4,1,5,2,2
+Dell,2,60,1.79 Kg,37888,intel,i7,g7,1,8,dos,4,1,6,2,2
+HP,512,60,1.74 kg,42499,intel,i7,u,1,8,dos,5,1,6,7,2
+Dell,2,60,1.79 Kg,28350,intel,i7,g7,1,8,dos,4,1,6,2,2
+HP,512,60,1.74 kg,29999,intel,i5,u,1,8,dos,5,1,5,7,2
+Dell,512,60,1.16 kg,45650,intel,i7,g7,1,16,Windows 11,4,1,6,2,1
+Dell,512,60,1.16 kg,33000,intel,i5,g7,1,8,Windows 11,4,1,5,2,1
+HP,512,60,1.74 kg,26249,intel,i7,g7,1,8,dos,5,1,6,2,2
+HP,512,60,1.74 kg,27600,intel,i7,g7,1,8,dos,5,1,6,2,2
+Dell,1,60,1.79 Kg,17299,intel,i5,g7,1,8,dos,4,1,5,2,2
+Lenovo,256,60,1.64 kg,18999,intel,i5,g7,1,8,dos,8,1,5,2,2
+Lenovo,256,60,1.47 Kg,33249,intel,i5,g7,3,16,Windows 10,8,1,5,2,0
+Lenovo,256,60,1.46 Kg,42299,intel,i5,g7,1,16,Windows 10,8,1,5,2,0
+Lenovo,512,60,1.133 kg,48349,intel,i7,g7,1,16,Windows 10,8,1,6,2,0
+Dell,1,60,1.79 Kg,18699,intel,i7,g7,1,8,dos,4,1,6,2,2
+Dell,1,60,1.79 Kg,20000,intel,i5,g7,1,4,dos,4,1,5,2,2
+Dell,256,60,1.59 Kg,19950,intel,i5,g7,1,4,dos,4,1,5,2,2
+Dell,256,60,1.37 Kg,18599,intel,i5,g7,1,4,dos,4,1,5,2,2
+Dell,1,60,1.79 Kg,21750,intel,i5,g7,1,8,dos,4,1,5,2,2
+Lenovo,256,60,1.70kg,15407,intel,i5,g7,1,8,dos,8,1,5,2,2
+Lenovo,1,60,1.8 kg,35000,intel,i5,g7,1,8,dos,8,1,5,2,2
+Lenovo,1,60,1.5 kg,20000,intel,i5,g1,1,8,dos,8,1,5,0,2
+Dell,1,60,1.79 kg,25000,intel,i5,u,1,8,dos,4,1,5,7,2
+ASUS,2,60,1.85 kg,136666,amd,ai 9,hx,1,4,Windows 11,1,0,1,5,1
+ASUS,2,60,1.80 kg,69499,intel,ultra 9,u,1,4,Windows 11,1,1,15,7,1
+ASUS,1,144,2.65 Kg,134999,intel,ultra 9,u,1,32,Windows 11,1,1,15,7,1
+HP,512,60,2.15 kg,68888,intel,i7,h,1,16,Windows 11,5,1,6,3,1
+ASUS,1,144,2.60 Kg,117699,intel,i9,h,2,32,Windows 11,1,1,7,3,1
+ASUS,512,60,1.80 Kg,49500,amd,ryzen 5,h,2,8,Windows 11,1,0,9,3,1
+ASUS,1,60,1.95 Kg,39999,amd,ryzen 7,h,2,16,Windows 11,1,0,10,3,1
+ASUS,1,60,2.40 Kg,73999,intel,i7,h,2,32,Windows 11,1,1,6,3,1
+ASUS,1,60,2.40 Kg,85699,amd,ryzen 9,hx,2,32,Windows 11,1,0,11,5,1
+ASUS,1,144,1.30 Kg,89999,amd,ryzen 9,hs,2,32,Windows 10,1,0,11,4,0
+ASUS,1,60,2.34 kg,135500,intel,i9,h,2,32,Windows 11,1,1,7,3,1
+ASUS,1,144,1.18 Kg,106000,intel,i9,h,2,16,Windows 11,1,1,7,3,1
+Razer,1,60,2.01 kg,64422,intel,i9,h,1,32,Windows 10,11,1,7,3,0
